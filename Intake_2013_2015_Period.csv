@@ -1,0 +1,1001 @@
+Animal ID,Name,DateTime,MonthYear,Found Location,Intake Type,Intake Condition,Animal Type,Sex upon Intake,Age upon Intake,Breed,Color
+A753893,Chato,0015-06-26 16:30:00+00:00,Jun-15,6709 Ponca Street in Austin (TX),Stray,Normal,Dog,Intact Male,-1 years,American Bulldog Mix,White/Brown
+A797495,Ace,0019-06-14 11:34:00+00:00,Jun-19,6814 East Riverside Drive in Austin (TX),Stray,Normal,Dog,Neutered Male,-1 years,Cairn Terrier,Black/Tan
+A725472,Rascal,0018-07-10 16:25:00+00:00,Jul-18,1212 West Ben White in Austin (TX),Public Assist,Normal,Dog,Neutered Male,-1 years,Chihuahua Shorthair Mix,White/Brown
+A725472,Rascal,0019-02-26 11:25:00+00:00,Feb-19,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,-1 years,Chihuahua Shorthair Mix,White/Brown
+A757376,Gorda,0018-10-13 13:42:00+00:00,Oct-18,Austin (TX),Public Assist,Normal,Dog,Spayed Female,-1 years,Miniature Schnauzer Mix,White
+A871020,,0020-03-13 16:15:00+00:00,Mar-20,2417 Rockridge Drive in Austin (TX),Stray,Normal,Other,Unknown,-1 years,Opossum,Gray
+A757376,Gorda,0017-09-01 16:49:00+00:00,Sep-17,6807 Blue Dawn Trl in Austin (TX),Stray,Normal,Dog,Intact Female,-2 years,Miniature Schnauzer Mix,White
+A725472,Rascal,0016-06-12 14:16:00+00:00,Jun-16,Austin (TX),Owner Surrender,Aged,Dog,Neutered Male,-3 years,Chihuahua Shorthair Mix,White/Brown
+A922017,Akima,0025-03-05 09:08:00+00:00,Mar-25,6605 Bourg Cv in Austin (TX),Owner Surrender,Injured,Dog,Intact Male,-3 years,Greyhound,White/Brown Brindle
+A783723,Pina,0018-11-05 11:00:00+00:00,Nov-18,3108 Crownover Street in Austin (TX),Stray,Normal,Cat,Intact Female,-4 years,Domestic Shorthair,White/Orange
+A842768,Vivienne,0021-09-21 12:40:00+00:00,Sep-21,St Elmo in Austin (TX),Stray,Pregnant,Dog,Intact Female,0 years,Alaskan Husky Mix,Black/White
+A895119,,0023-12-21 19:00:00+00:00,Dec-23,301 East Garrett Run in Travis (TX),Stray,Neonatal,Dog,Unknown,0 years,Alaskan Husky Mix,Black
+A895120,,0023-12-21 19:00:00+00:00,Dec-23,301 East Garrett Run in Travis (TX),Stray,Neonatal,Dog,Unknown,0 years,Alaskan Husky Mix,Black
+A895121,,0023-12-21 19:00:00+00:00,Dec-23,301 East Garrett Run in Travis (TX),Stray,Neonatal,Dog,Unknown,0 years,Alaskan Husky Mix,Black
+A895122,,0023-12-21 19:00:00+00:00,Dec-23,301 East Garrett Run in Travis (TX),Stray,Neonatal,Dog,Unknown,0 years,Alaskan Husky Mix,Black
+A895123,,0023-12-21 19:00:00+00:00,Dec-23,301 East Garrett Run in Travis (TX),Stray,Neonatal,Dog,Unknown,0 years,Alaskan Husky Mix,Black
+A895124,,0023-12-21 19:00:00+00:00,Dec-23,301 East Garrett Run in Travis (TX),Stray,Neonatal,Dog,Unknown,0 years,Alaskan Husky Mix,Black
+A895125,,0023-12-21 19:00:00+00:00,Dec-23,301 East Garrett Run in Travis (TX),Stray,Neonatal,Dog,Unknown,0 years,Alaskan Husky Mix,Black
+A895126,,0023-12-21 19:00:00+00:00,Dec-23,301 East Garrett Run in Travis (TX),Stray,Neonatal,Dog,Unknown,0 years,Alaskan Husky Mix,Black
+A895127,,0023-12-21 19:00:00+00:00,Dec-23,301 East Garrett Run in Travis (TX),Stray,Neonatal,Dog,Unknown,0 years,Alaskan Husky Mix,Black
+A922150,*King Scooby,0025-01-25 07:36:00+00:00,Jan-25,Austin (TX),Stray,Normal,Dog,Intact Male,0 years,American Bulldog Mix,Black/White
+A753660,,0017-07-09 15:03:00+00:00,Jul-17,6100 Asa Drive in Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,American Shorthair Mix,Blue/White
+A758108,,0017-09-10 16:21:00+00:00,Sep-17,5600 Abilene Trail in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,American Shorthair Mix,Brown Tabby/White
+A758109,,0017-09-10 16:21:00+00:00,Sep-17,5600 Abilene Trail in Austin (TX),Stray,Normal,Cat,Neutered Male,0 years,American Shorthair Mix,Brown Tabby
+A758112,Allee Chat,0017-09-10 16:21:00+00:00,Sep-17,5600 Abilene Trail in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,American Shorthair Mix,Blue Tabby/White
+A758105,,0017-09-10 16:21:00+00:00,Sep-17,5600 Abilene Trail in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,American Shorthair Mix,Brown Tabby/White
+A874456,,0023-02-09 15:45:00+00:00,Feb-23,Austin (TX),Owner Surrender,Normal,Dog,Unknown,0 years,Anatol Shepherd Mix,Brown
+A874457,,0023-02-09 15:45:00+00:00,Feb-23,Austin (TX),Owner Surrender,Normal,Dog,Unknown,0 years,Anatol Shepherd Mix,Brown
+A891693,,0023-10-26 12:32:00+00:00,Oct-23,4501 East Ben White Boulevard in Austin (TX),Stray,Normal,Dog,Intact Female,0 years,Anatol Shepherd Mix,Black/White
+A891694,,0023-10-26 12:32:00+00:00,Oct-23,4501 East Ben White Boulevard in Austin (TX),Stray,Normal,Dog,Unknown,0 years,Anatol Shepherd Mix,Black/White
+A891695,,0023-10-26 12:32:00+00:00,Oct-23,4501 East Ben White Boulevard in Austin (TX),Stray,Normal,Dog,Unknown,0 years,Anatol Shepherd Mix,White/Brown
+A891696,,0023-10-26 12:32:00+00:00,Oct-23,4501 East Ben White Boulevard in Austin (TX),Stray,Normal,Dog,Unknown,0 years,Anatol Shepherd Mix,White/Brown
+A891697,,0023-10-26 12:32:00+00:00,Oct-23,4501 East Ben White Boulevard in Austin (TX),Stray,Normal,Dog,Unknown,0 years,Anatol Shepherd Mix,Black/White
+A891698,,0023-10-26 12:32:00+00:00,Oct-23,4501 East Ben White Boulevard in Austin (TX),Stray,Normal,Dog,Unknown,0 years,Anatol Shepherd Mix,Brown
+A891699,,0023-10-26 12:32:00+00:00,Oct-23,4501 East Ben White Boulevard in Austin (TX),Stray,Normal,Dog,Unknown,0 years,Anatol Shepherd Mix,Brown
+A891700,,0023-10-26 12:32:00+00:00,Oct-23,4501 East Ben White Boulevard in Austin (TX),Stray,Normal,Dog,Unknown,0 years,Anatol Shepherd Mix,Sable/White
+A891701,,0023-10-26 12:32:00+00:00,Oct-23,4501 East Ben White Boulevard in Austin (TX),Stray,Normal,Dog,Unknown,0 years,Anatol Shepherd Mix,Sable/White
+A754280,Chewbacca,0016-02-27 10:51:00+00:00,Feb-16,4502 Kind Way in Travis (TX),Owner Surrender,Normal,Dog,Intact Male,0 years,Australian Cattle Dog,Black/Brown
+A875059,,0023-02-20 09:57:00+00:00,Feb-23,Highway 71 And Highway 183 in Austin (TX),Stray,Normal,Dog,Unknown,0 years,Australian Cattle Dog,Black
+A875060,,0023-02-20 09:57:00+00:00,Feb-23,Highway 71 And Highway 183 in Austin (TX),Stray,Normal,Dog,Unknown,0 years,Australian Cattle Dog,Black
+A875061,,0023-02-20 09:57:00+00:00,Feb-23,Highway 71 And Highway 183 in Austin (TX),Stray,Normal,Dog,Unknown,0 years,Australian Cattle Dog,Black
+A875062,,0023-02-20 09:57:00+00:00,Feb-23,Highway 71 And Highway 183 in Austin (TX),Stray,Normal,Dog,Unknown,0 years,Australian Cattle Dog,Black
+A875063,,0023-02-20 09:57:00+00:00,Feb-23,Highway 71 And Highway 183 in Austin (TX),Stray,Normal,Dog,Unknown,0 years,Australian Cattle Dog,Black
+A921870,,0025-01-22 12:50:00+00:00,Jan-25,7201 Levander Loop in Austin (TX),Stray,Normal,Dog,Unknown,0 years,Australian Cattle Dog,White
+A921871,,0025-01-22 12:50:00+00:00,Jan-25,7201 Levander Loop in Austin (TX),Stray,Normal,Dog,Unknown,0 years,Australian Cattle Dog,White
+A921872,,0025-01-22 12:50:00+00:00,Jan-25,7201 Levander Loop in Austin (TX),Stray,Normal,Dog,Unknown,0 years,Australian Cattle Dog,White
+A921873,,0025-01-22 12:50:00+00:00,Jan-25,7201 Levander Loop in Austin (TX),Stray,Normal,Dog,Unknown,0 years,Australian Cattle Dog,White
+A921874,,0025-01-22 12:50:00+00:00,Jan-25,7201 Levander Loop in Austin (TX),Stray,Normal,Dog,Unknown,0 years,Australian Cattle Dog,White
+A921875,,0025-01-22 12:50:00+00:00,Jan-25,7201 Levander Loop in Austin (TX),Stray,Normal,Dog,Unknown,0 years,Australian Cattle Dog,White
+A921876,,0025-01-22 12:50:00+00:00,Jan-25,7201 Levander Loop in Austin (TX),Stray,Normal,Dog,Unknown,0 years,Australian Cattle Dog,White
+A921877,,0025-01-22 12:50:00+00:00,Jan-25,7201 Levander Loop in Austin (TX),Stray,Normal,Dog,Unknown,0 years,Australian Cattle Dog,White
+A921878,,0025-01-22 12:50:00+00:00,Jan-25,7201 Levander Loop in Austin (TX),Stray,Normal,Dog,Unknown,0 years,Australian Cattle Dog,White
+A724805,,0016-04-22 22:03:00+00:00,Apr-16,Travis (TX),Stray,Nursing,Dog,Intact Male,0 years,Australian Cattle Dog Mix,Brown
+A724806,,0016-04-22 22:03:00+00:00,Apr-16,Travis (TX),Stray,Nursing,Dog,Intact Male,0 years,Australian Cattle Dog Mix,Brown
+A724807,,0016-04-22 22:03:00+00:00,Apr-16,Travis (TX),Stray,Nursing,Dog,Unknown,0 years,Australian Cattle Dog Mix,Brown
+A724808,,0016-04-22 22:03:00+00:00,Apr-16,Travis (TX),Stray,Nursing,Dog,Unknown,0 years,Australian Cattle Dog Mix,Brown/White
+A724809,,0016-04-22 22:03:00+00:00,Apr-16,Travis (TX),Stray,Nursing,Dog,Unknown,0 years,Australian Cattle Dog Mix,Black/Brown
+A724810,,0016-04-22 22:03:00+00:00,Apr-16,Travis (TX),Stray,Nursing,Dog,Unknown,0 years,Australian Cattle Dog Mix,Black/Brown
+A724811,,0016-04-22 22:03:00+00:00,Apr-16,Travis (TX),Stray,Nursing,Dog,Unknown,0 years,Australian Cattle Dog Mix,Black/Brown
+A724812,,0016-04-22 22:03:00+00:00,Apr-16,Travis (TX),Stray,Nursing,Dog,Unknown,0 years,Australian Cattle Dog Mix,Black/Brown
+A745085,Keira,0017-03-12 14:19:00+00:00,Mar-17,10600 Winchelsea Ct in Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0 years,Australian Cattle Dog Mix,White
+A861764,,0022-07-17 08:41:00+00:00,Jul-22,124 W Anderson Ln in Austin (TX),Stray,Normal,Dog,Unknown,0 years,Australian Cattle Dog Mix,Black/White
+A861765,,0022-07-17 08:41:00+00:00,Jul-22,124 W Anderson Ln in Austin (TX),Stray,Normal,Dog,Unknown,0 years,Australian Cattle Dog Mix,White
+A861766,,0022-07-17 08:41:00+00:00,Jul-22,124 W Anderson Ln in Austin (TX),Stray,Normal,Dog,Unknown,0 years,Australian Cattle Dog Mix,White
+A861767,,0022-07-17 08:41:00+00:00,Jul-22,124 W Anderson Ln in Austin (TX),Stray,Normal,Dog,Unknown,0 years,Australian Cattle Dog Mix,White/Black
+A861768,,0022-07-17 08:41:00+00:00,Jul-22,124 W Anderson Ln in Austin (TX),Stray,Normal,Dog,Unknown,0 years,Australian Cattle Dog Mix,White/Black
+A861754,,0022-07-17 08:41:00+00:00,Jul-22,124 W Anderson Ln in Austin (TX),Stray,Normal,Dog,Unknown,0 years,Australian Cattle Dog Mix,Brown Merle
+A861755,,0022-07-17 08:41:00+00:00,Jul-22,124 W Anderson Ln in Austin (TX),Stray,Normal,Dog,Unknown,0 years,Australian Cattle Dog Mix,Brown Merle
+A874901,A874901,0023-02-20 09:57:00+00:00,Feb-23,Highway 71 And Highway 183 in Austin (TX),Stray,Normal,Dog,Unknown,0 years,Australian Cattle Dog Mix,Black
+A874902,A874902,0023-02-20 09:57:00+00:00,Feb-23,Highway 71 And Highway 183 in Austin (TX),Stray,Normal,Dog,Unknown,0 years,Australian Cattle Dog Mix,Black
+A874903,A874903,0023-02-20 09:57:00+00:00,Feb-23,Highway 71 And Highway 183 in Austin (TX),Stray,Normal,Dog,Unknown,0 years,Australian Cattle Dog Mix,Black
+A874904,A874904,0023-02-20 09:57:00+00:00,Feb-23,Highway 71 And Highway 183 in Austin (TX),Stray,Normal,Dog,Unknown,0 years,Australian Cattle Dog Mix,Black
+A874905,A874905,0023-02-20 09:57:00+00:00,Feb-23,Highway 71 And Highway 183 in Austin (TX),Stray,Normal,Dog,Unknown,0 years,Australian Cattle Dog Mix,Sable
+A874906,A874906,0023-02-20 09:57:00+00:00,Feb-23,Highway 71 And Highway 183 in Austin (TX),Stray,Normal,Dog,Unknown,0 years,Australian Cattle Dog Mix,Brown
+A874909,A874909,0023-02-20 09:57:00+00:00,Feb-23,Highway 71 And Highway 183 in Austin (TX),Stray,Normal,Dog,Unknown,0 years,Australian Cattle Dog Mix,Brown
+A880309,,0023-05-05 07:00:00+00:00,May-23,Austin (TX),Public Assist,Neonatal,Dog,Unknown,0 years,Australian Cattle Dog Mix,Tricolor
+A880310,,0023-05-05 07:00:00+00:00,May-23,Austin (TX),Public Assist,Neonatal,Dog,Unknown,0 years,Australian Cattle Dog Mix,Tricolor
+A880311,,0023-05-05 07:00:00+00:00,May-23,Austin (TX),Public Assist,Neonatal,Dog,Unknown,0 years,Australian Cattle Dog Mix,Tricolor
+A880312,,0023-05-05 07:00:00+00:00,May-23,Austin (TX),Public Assist,Neonatal,Dog,Unknown,0 years,Australian Cattle Dog Mix,Tricolor
+A880313,,0023-05-05 07:00:00+00:00,May-23,Austin (TX),Public Assist,Neonatal,Dog,Unknown,0 years,Australian Cattle Dog Mix,Tricolor
+A880314,,0023-05-05 07:00:00+00:00,May-23,Austin (TX),Public Assist,Neonatal,Dog,Unknown,0 years,Australian Cattle Dog Mix,Tricolor
+A880315,,0023-05-05 07:00:00+00:00,May-23,Austin (TX),Public Assist,Neonatal,Dog,Unknown,0 years,Australian Cattle Dog Mix,Tricolor
+A899349,,0024-03-03 09:35:00+00:00,Mar-24,7201 Levander Loop Bldg A in Travis (TX),Stray,Neonatal,Dog,Intact Male,0 years,Australian Cattle Dog Mix,White
+A899350,,0024-03-03 09:35:00+00:00,Mar-24,7201 Levander Loop Bldg A in Travis (TX),Stray,Neonatal,Dog,Intact Male,0 years,Australian Cattle Dog Mix,White
+A899351,,0024-03-03 09:35:00+00:00,Mar-24,7201 Levander Loop Bldg A in Travis (TX),Stray,Neonatal,Dog,Intact Female,0 years,Australian Cattle Dog Mix,White/Brown
+A899352,,0024-03-03 09:35:00+00:00,Mar-24,7201 Levander Loop Bldg A in Travis (TX),Stray,Neonatal,Dog,Intact Male,0 years,Australian Cattle Dog Mix,Tan/White
+A899353,,0024-03-03 09:35:00+00:00,Mar-24,7201 Levander Loop Bldg A in Travis (TX),Stray,Neonatal,Dog,Intact Male,0 years,Australian Cattle Dog Mix,Brown/Black
+A899354,,0024-03-03 09:35:00+00:00,Mar-24,7201 Levander Loop Bldg A in Travis (TX),Stray,Neonatal,Dog,Intact Female,0 years,Australian Cattle Dog Mix,Black/White
+A899356,,0024-03-03 09:35:00+00:00,Mar-24,7201 Levander Loop Bldg A in Travis (TX),Stray,Neonatal,Dog,Intact Female,0 years,Australian Cattle Dog Mix,White
+A680305,*'Stache,0014-05-29 10:00:00+00:00,May-14,Austin (TX),Stray,Nursing,Dog,Intact Male,0 years,Australian Kelpie Mix,Sable
+A680306,*Handlebar,0014-05-29 10:00:00+00:00,May-14,Austin (TX),Stray,Nursing,Dog,Intact Male,0 years,Australian Kelpie Mix,Sable
+A680307,*George,0014-05-29 10:00:00+00:00,May-14,Austin (TX),Stray,Nursing,Dog,Intact Male,0 years,Australian Kelpie Mix,Black/White
+A680309,*Ringo,0014-05-29 10:00:00+00:00,May-14,Austin (TX),Stray,Nursing,Dog,Intact Male,0 years,Australian Kelpie Mix,Black/White
+A680310,*Paul,0014-05-29 10:00:00+00:00,May-14,Austin (TX),Stray,Nursing,Dog,Intact Male,0 years,Australian Kelpie Mix,Chocolate/White
+A680311,*Mountainman,0014-05-29 10:00:00+00:00,May-14,Austin (TX),Stray,Nursing,Dog,Intact Male,0 years,Australian Kelpie Mix,Chocolate/White
+A680312,*Rolly,0014-05-29 10:00:00+00:00,May-14,Austin (TX),Stray,Nursing,Dog,Intact Male,0 years,Australian Kelpie Mix,Black/Tan
+A680313,Buddy,0014-05-29 10:00:00+00:00,May-14,Austin (TX),Stray,Nursing,Dog,Intact Male,0 years,Australian Kelpie Mix,Black/Tan
+A680314,*Lil Sis,0014-05-29 10:00:00+00:00,May-14,Austin (TX),Stray,Nursing,Dog,Intact Female,0 years,Australian Kelpie Mix,Chocolate/Tan
+A680315,*Big Sis,0014-05-29 10:00:00+00:00,May-14,Austin (TX),Stray,Nursing,Dog,Intact Female,0 years,Australian Kelpie Mix,Chocolate/Tan
+A749739,Brooklyn,0017-05-18 11:00:00+00:00,May-17,Born In Shelter in Austin (TX),Stray,Nursing,Dog,Spayed Female,0 years,Australian Kelpie Mix,Black/White
+A859033,,0022-06-07 22:52:00+00:00,Jun-22,7508 Jaborandi Dr in Austin (TX),Wildlife,Normal,Other,Unknown,0 years,Bat,Brown/Brown
+A907746,,0024-06-20 11:54:00+00:00,Jun-24,505 Bellevue Apt 9 in Austin (TX),Wildlife,Normal,Other,Unknown,0 years,Bat,Brown/Brown
+A664532,,0013-10-04 22:05:00+00:00,Oct-13,Immunell in Pflugerville (TX),Wildlife,Normal,Other,Unknown,0 years,Bat Mix,Brown/Brown
+A666005,,0013-10-25 23:27:00+00:00,Oct-13,Fairwood in Austin (TX),Wildlife,Normal,Other,Unknown,0 years,Bat Mix,Brown/Brown
+A666690,,0013-11-05 20:15:00+00:00,Nov-13,I-35 in Austin (TX),Wildlife,Normal,Other,Unknown,0 years,Bat Mix,Brown/Brown
+A667800,,0013-11-22 22:49:00+00:00,Nov-13,Thristlewood in Austin (TX),Wildlife,Normal,Other,Unknown,0 years,Bat Mix,Brown/Brown
+A668062,,0013-11-26 20:06:00+00:00,Nov-13,West Ave in Austin (TX),Wildlife,Normal,Other,Unknown,0 years,Bat Mix,Brown/Brown
+A674209,,0014-03-09 16:38:00+00:00,Mar-14,4210 W. Braker in Austin (TX),Wildlife,Normal,Other,Unknown,0 years,Bat Mix,Brown
+A791805,,0019-04-01 12:03:00+00:00,Apr-19,1101 Picadilly Drive in Travis (TX),Wildlife,Injured,Other,Unknown,0 years,Bat Mix,Black/Brown
+A666600,,0013-11-04 13:40:00+00:00,Nov-13,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0 years,Beagle/Chihuahua Shorthair,White
+A666601,,0013-11-04 13:40:00+00:00,Nov-13,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0 years,Beagle/Chihuahua Shorthair,White
+A666602,,0013-11-04 13:40:00+00:00,Nov-13,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0 years,Beagle/Chihuahua Shorthair,White
+A666603,,0013-11-04 13:40:00+00:00,Nov-13,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0 years,Beagle/Chihuahua Shorthair,White
+A666604,,0013-11-04 13:40:00+00:00,Nov-13,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0 years,Beagle/Chihuahua Shorthair,White
+A666605,,0013-11-04 13:40:00+00:00,Nov-13,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0 years,Beagle/Chihuahua Shorthair,White
+A666606,,0013-11-04 13:40:00+00:00,Nov-13,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0 years,Beagle/Chihuahua Shorthair,White
+A666607,,0013-11-04 13:40:00+00:00,Nov-13,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0 years,Beagle/Chihuahua Shorthair,White
+A693265,*Elsie,0014-12-05 13:01:00+00:00,Dec-14,Austin (TX),Owner Surrender,Nursing,Dog,Intact Female,0 years,Beagle/German Shepherd,Brown/Black
+A693270,*Echo,0014-12-05 13:01:00+00:00,Dec-14,Austin (TX),Owner Surrender,Nursing,Dog,Intact Male,0 years,Beagle/German Shepherd,Black/Brown
+A693271,*Gunner,0014-12-05 13:01:00+00:00,Dec-14,Austin (TX),Owner Surrender,Nursing,Dog,Intact Male,0 years,Beagle/German Shepherd,Black/Brown
+A693272,*Kodiak,0014-12-05 13:01:00+00:00,Dec-14,Austin (TX),Owner Surrender,Nursing,Dog,Intact Male,0 years,Beagle/German Shepherd,Black/Brown
+A693267,Sassy,0014-12-05 13:01:00+00:00,Dec-14,Austin (TX),Owner Surrender,Nursing,Dog,Intact Female,0 years,Beagle/German Shepherd,Tricolor
+A693268,Eagle,0014-12-05 13:01:00+00:00,Dec-14,Austin (TX),Owner Surrender,Nursing,Dog,Intact Male,0 years,Beagle/German Shepherd,Brown/Black
+A761565,Xena,0017-11-06 18:43:00+00:00,Nov-17,11906 Bronco Circle in Austin (TX),Stray,Normal,Dog,Intact Female,0 years,Black/Tan Hound Mix,Black/Tricolor
+A751749,Taco,0014-09-09 11:02:00+00:00,Sep-14,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,0 years,Border Collie Mix,Black/White
+A741274,*Uno,0016-10-16 12:16:00+00:00,Oct-16,10748 Marshitahs Way in Austin (TX),Stray,Normal,Dog,Intact Male,0 years,Border Collie Mix,White/Black
+A741275,*Little Bear,0016-10-16 12:16:00+00:00,Oct-16,10748 Marshitahs Way in Austin (TX),Stray,Normal,Dog,Intact Male,0 years,Border Collie Mix,Black/Brown
+A741271,*Sassy,0016-10-16 12:16:00+00:00,Oct-16,10748 Marshitahs Way in Austin (TX),Stray,Normal,Dog,Intact Female,0 years,Border Collie Mix,Black/White
+A741272,*Sunshine,0016-10-16 12:16:00+00:00,Oct-16,10748 Marshitahs Way in Austin (TX),Stray,Normal,Dog,Intact Female,0 years,Border Collie Mix,Black/Brown
+A896867,Benjamin,0024-01-23 09:39:00+00:00,Jan-24,9101 Hog Eye Rd Unit 1636 in Austin (TX),Stray,Normal,Dog,Intact Male,0 years,Border Collie Mix,White/Black
+A879312,*Lily Bea,0023-04-24 16:27:00+00:00,Apr-23,Austin (TX),Public Assist,Neonatal,Dog,Intact Female,0 years,Boxer Mix,Brown/White
+A879313,*Lea Belle,0023-04-24 16:27:00+00:00,Apr-23,Austin (TX),Public Assist,Neonatal,Dog,Intact Female,0 years,Boxer Mix,Brown/White
+A879314,*Luka Bo,0023-04-24 16:27:00+00:00,Apr-23,Austin (TX),Public Assist,Neonatal,Dog,Intact Male,0 years,Boxer Mix,Brown/White
+A879315,*Louie Bear,0023-04-24 16:27:00+00:00,Apr-23,Austin (TX),Public Assist,Neonatal,Dog,Intact Male,0 years,Boxer Mix,Brown/White
+A879316,*Liza Beth,0023-04-24 16:27:00+00:00,Apr-23,Austin (TX),Public Assist,Neonatal,Dog,Intact Female,0 years,Boxer Mix,Brown/White
+A879317,*Lola Bean,0023-04-24 16:27:00+00:00,Apr-23,Austin (TX),Public Assist,Neonatal,Dog,Intact Female,0 years,Boxer Mix,Brown/White
+A929658,,0025-05-01 16:21:00+00:00,May-25,6101 Kidneywood Trl in Austin (TX),Owner Surrender,Pregnant,Dog,Unknown,0 years,Boxer Mix,Brown
+A929659,,0025-05-01 16:21:00+00:00,May-25,6101 Kidneywood Trl in Austin (TX),Owner Surrender,Pregnant,Dog,Unknown,0 years,Boxer Mix,Brown
+A929660,,0025-05-01 16:21:00+00:00,May-25,6101 Kidneywood Trl in Austin (TX),Owner Surrender,Pregnant,Dog,Unknown,0 years,Boxer Mix,Brown
+A929661,,0025-05-01 16:21:00+00:00,May-25,6101 Kidneywood Trl in Austin (TX),Owner Surrender,Pregnant,Dog,Unknown,0 years,Boxer Mix,Brown
+A929662,,0025-05-01 16:21:00+00:00,May-25,6101 Kidneywood Trl in Austin (TX),Owner Surrender,Pregnant,Dog,Unknown,0 years,Boxer Mix,Brown
+A929663,,0025-05-01 16:21:00+00:00,May-25,6101 Kidneywood Trl in Austin (TX),Owner Surrender,Pregnant,Dog,Unknown,0 years,Boxer Mix,Brown
+A929664,,0025-05-01 16:21:00+00:00,May-25,6101 Kidneywood Trl in Austin (TX),Owner Surrender,Pregnant,Dog,Unknown,0 years,Boxer Mix,Brown
+A929665,,0025-05-01 16:21:00+00:00,May-25,6101 Kidneywood Trl in Austin (TX),Owner Surrender,Pregnant,Dog,Unknown,0 years,Boxer Mix,Brown
+A929666,,0025-05-01 16:21:00+00:00,May-25,6101 Kidneywood Trl in Austin (TX),Owner Surrender,Pregnant,Dog,Unknown,0 years,Boxer Mix,Brown
+A929667,,0025-05-01 16:21:00+00:00,May-25,6101 Kidneywood Trl in Austin (TX),Owner Surrender,Pregnant,Dog,Unknown,0 years,Boxer Mix,Brown
+A929670,,0025-05-01 16:21:00+00:00,May-25,6101 Kidneywood Trl in Austin (TX),Owner Surrender,Pregnant,Dog,Unknown,0 years,Boxer Mix,Brown
+A929671,,0025-05-01 16:21:00+00:00,May-25,6101 Kidneywood Trl in Austin (TX),Owner Surrender,Pregnant,Dog,Unknown,0 years,Boxer Mix,Brown
+A929672,,0025-05-01 16:21:00+00:00,May-25,6101 Kidneywood Trl in Austin (TX),Owner Surrender,Pregnant,Dog,Unknown,0 years,Boxer Mix,Brown
+A929673,,0025-05-01 16:21:00+00:00,May-25,6101 Kidneywood Trl in Austin (TX),Owner Surrender,Pregnant,Dog,Unknown,0 years,Boxer Mix,Brown
+A688262,,0014-09-17 17:09:00+00:00,Sep-14,Austin (TX),Stray,Normal,Dog,Intact Male,0 years,Cairn Terrier Mix,Sable/White
+A688339,,0014-09-17 17:09:00+00:00,Sep-14,Austin (TX),Stray,Normal,Dog,Intact Female,0 years,Cairn Terrier Mix,Tricolor
+A688337,Sterling,0014-09-17 17:09:00+00:00,Sep-14,Austin (TX),Stray,Normal,Dog,Intact Male,0 years,Cairn Terrier Mix,Tricolor
+A808812,Snow,0019-11-14 09:53:00+00:00,Nov-19,Manor (TX),Stray,Nursing,Dog,Intact Female,0 years,Cairn Terrier Mix,White/Black
+A808813,Rain,0019-11-14 09:53:00+00:00,Nov-19,Manor (TX),Stray,Nursing,Dog,Intact Female,0 years,Cairn Terrier Mix,Black
+A808814,Tornado,0019-11-14 09:53:00+00:00,Nov-19,Manor (TX),Stray,Nursing,Dog,Intact Male,0 years,Cairn Terrier Mix,Black
+A808815,Hurricane,0019-11-14 09:53:00+00:00,Nov-19,Manor (TX),Stray,Nursing,Dog,Intact Male,0 years,Cairn Terrier Mix,Tan
+A808816,Lightening,0019-11-14 09:53:00+00:00,Nov-19,Manor (TX),Stray,Nursing,Dog,Intact Female,0 years,Cairn Terrier Mix,Tan
+A729387,*Hopper,0016-06-17 12:06:00+00:00,Jun-16,Waterford Run Way in Travis (TX),Stray,Normal,Other,Neutered Male,0 years,Californian Mix,White
+A726492,Arlo,0016-05-11 12:50:00+00:00,May-16,7101 Ed Bluestein Blvd in Austin (TX),Stray,Normal,Dog,Intact Male,0 years,Catahoula Mix,Brown Brindle
+A726540,*Nicolo,0016-05-11 12:50:00+00:00,May-16,7101 Ed Bluestein Blvd in Austin (TX),Stray,Normal,Dog,Intact Male,0 years,Catahoula Mix,Brown Brindle
+A726472,*Nadia,0016-05-11 12:50:00+00:00,May-16,7101 Ed Bluestein Blvd in Austin (TX),Stray,Normal,Dog,Intact Female,0 years,Catahoula/Plott Hound,Sable/White
+A726473,*Nala,0016-05-11 12:50:00+00:00,May-16,7101 Ed Bluestein Blvd in Austin (TX),Stray,Normal,Dog,Intact Female,0 years,Catahoula/Plott Hound,Brown Brindle/White
+A726474,*Nellie,0016-05-11 12:50:00+00:00,May-16,7101 Ed Bluestein Blvd in Austin (TX),Stray,Normal,Dog,Intact Female,0 years,Catahoula/Plott Hound,Brown Brindle/White
+A726475,*Nathaniel,0016-05-11 12:50:00+00:00,May-16,7101 Ed Bluestein Blvd in Austin (TX),Stray,Normal,Dog,Intact Male,0 years,Catahoula/Plott Hound,Brown Brindle/White
+A726476,*Newton,0016-05-11 12:50:00+00:00,May-16,7101 Ed Bluestein Blvd in Austin (TX),Stray,Normal,Dog,Intact Female,0 years,Catahoula/Plott Hound,Black/White
+A726477,*Nerida,0016-05-11 12:50:00+00:00,May-16,7101 Ed Bluestein Blvd in Austin (TX),Stray,Normal,Dog,Intact Female,0 years,Catahoula/Plott Hound,Tricolor
+A726470,*Nabila,0016-05-11 12:50:00+00:00,May-16,7101 Ed Bluestein Blvd in Austin (TX),Stray,Normal,Dog,Intact Female,0 years,Catahoula/Plott Hound,Sable/White
+A842246,*Teddy,0021-09-12 14:11:00+00:00,Sep-21,Travis (TX),Owner Surrender,Neonatal,Dog,Intact Male,0 years,Chihuahua Longhair Mix,Chocolate/Tan
+A852558,,0022-03-05 10:22:00+00:00,Mar-22,Austin (TX),Stray,Neonatal,Dog,Intact Male,0 years,Chihuahua Longhair Mix,Tricolor
+A891963,*Charlie,0023-10-30 15:14:00+00:00,Oct-23,Belafonte Boulevard And Melody Lane in Travis (TX),Stray,Normal,Dog,Intact Male,0 years,Chihuahua Longhair Mix,Black
+A677176,,0014-04-20 12:07:00+00:00,Apr-14,4434 Frontier Trl in Austin (TX),Stray,Nursing,Dog,Intact Female,0 years,Chihuahua Shorthair Mix,White/Brown
+A706847,Timmy,0015-07-04 09:16:00+00:00,Jul-15,7201 Levander Loop in Austin (TX),Stray,Nursing,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,Sable/White
+A706848,*Samuel,0015-07-04 09:16:00+00:00,Jul-15,7201 Levander Loop in Austin (TX),Stray,Nursing,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,Black/White
+A706849,,0015-07-04 09:16:00+00:00,Jul-15,7201 Levander Loop in Austin (TX),Stray,Nursing,Dog,Unknown,0 years,Chihuahua Shorthair Mix,Black
+A706844,*Frankie,0015-07-04 09:16:00+00:00,Jul-15,7201 Levander Loop in Austin (TX),Stray,Nursing,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,Sable/Black
+A706845,Big Red,0015-07-04 09:16:00+00:00,Jul-15,7201 Levander Loop in Austin (TX),Stray,Nursing,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,Sable/Black
+A725635,,0016-05-01 10:51:00+00:00,May-16,Austin (TX),Stray,Normal,Dog,Intact Female,0 years,Chihuahua Shorthair Mix,White/Black
+A727065,,0016-05-17 15:00:00+00:00,May-16,5701 Johnny Morris in Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0 years,Chihuahua Shorthair Mix,Tan
+A727066,,0016-05-17 15:00:00+00:00,May-16,5701 Johnny Morris in Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,Black/Tan
+A727067,,0016-05-17 15:00:00+00:00,May-16,5701 Johnny Morris in Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,Black/White
+A727115,,0016-05-17 15:00:00+00:00,May-16,5701 Johnny Morris in Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0 years,Chihuahua Shorthair Mix,Black/White
+A733413,,0016-08-21 09:57:00+00:00,Aug-16,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0 years,Chihuahua Shorthair Mix,Black/Cream
+A733414,,0016-08-21 09:57:00+00:00,Aug-16,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0 years,Chihuahua Shorthair Mix,Tricolor
+A733415,,0016-08-21 09:57:00+00:00,Aug-16,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0 years,Chihuahua Shorthair Mix,Black/Tan
+A733416,,0016-08-21 09:57:00+00:00,Aug-16,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,Tricolor
+A733417,,0016-08-21 09:57:00+00:00,Aug-16,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,Tricolor
+A733418,,0016-08-21 09:57:00+00:00,Aug-16,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,Black/Tan
+A740095,*Nick,0016-12-11 11:37:00+00:00,Dec-16,Travis (TX),Stray,Nursing,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,Black/White
+A740097,*Cece,0016-12-11 11:37:00+00:00,Dec-16,Travis (TX),Stray,Nursing,Dog,Intact Female,0 years,Chihuahua Shorthair Mix,Black/White
+A740098,*Schmidt,0016-12-11 11:37:00+00:00,Dec-16,Travis (TX),Stray,Nursing,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,Black/White
+A740099,*Winston,0016-12-11 11:37:00+00:00,Dec-16,Travis (TX),Stray,Nursing,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,Black/White
+A740100,*Reagan,0016-12-11 11:37:00+00:00,Dec-16,Travis (TX),Stray,Nursing,Dog,Intact Female,0 years,Chihuahua Shorthair Mix,Sable
+A740101,*Coach,0016-12-11 11:37:00+00:00,Dec-16,Travis (TX),Stray,Nursing,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,Sable
+A742434,*Charlie,0017-01-21 15:20:00+00:00,Jan-17,Austin (TX),Stray,Nursing,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,Brown
+A742435,*Rocky,0017-01-21 15:20:00+00:00,Jan-17,Austin (TX),Stray,Nursing,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,Tan/White
+A742436,*Buddy,0017-01-21 15:20:00+00:00,Jan-17,Austin (TX),Stray,Nursing,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,Brown
+A742437,*Hercules,0017-01-21 15:20:00+00:00,Jan-17,Austin (TX),Stray,Nursing,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,Brown
+A742438,*Toby,0017-01-21 15:20:00+00:00,Jan-17,Austin (TX),Stray,Nursing,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,Black
+A742439,*Austin,0017-01-21 15:20:00+00:00,Jan-17,Austin (TX),Stray,Nursing,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,Black
+A749733,,0017-05-18 11:00:00+00:00,May-17,Born In Shelter in Austin (TX),Stray,Nursing,Dog,Intact Female,0 years,Chihuahua Shorthair Mix,Sable/White
+A749734,,0017-05-18 11:00:00+00:00,May-17,Born In Shelter in Austin (TX),Stray,Nursing,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,Sable/White
+A749735,,0017-05-18 11:00:00+00:00,May-17,Born In Shelter in Austin (TX),Stray,Nursing,Dog,Intact Female,0 years,Chihuahua Shorthair Mix,Brown
+A749736,,0017-05-18 11:00:00+00:00,May-17,Born In Shelter in Austin (TX),Stray,Nursing,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,Brown
+A749737,,0017-05-18 11:00:00+00:00,May-17,Born In Shelter in Austin (TX),Stray,Nursing,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,Black/White
+A749738,,0017-05-18 11:00:00+00:00,May-17,Born In Shelter in Austin (TX),Stray,Nursing,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,Black/White
+A753333,*Champ,0017-07-04 14:11:00+00:00,Jul-17,Travis (TX),Owner Surrender,Nursing,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,Brown/Black
+A755169,,0017-07-30 11:50:00+00:00,Jul-17,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,White
+A755170,,0017-07-30 11:50:00+00:00,Jul-17,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0 years,Chihuahua Shorthair Mix,White
+A755172,,0017-07-30 11:50:00+00:00,Jul-17,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,White/Black
+A775270,*Bruce,0018-06-27 12:32:00+00:00,Jun-18,4719 Harmon Avenue in Austin (TX),Stray,Sick,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,Black/White
+A780955,,0018-09-22 15:30:00+00:00,Sep-18,3507 Bear Paw in Austin (TX),Stray,Normal,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,Brown/Black
+A792467,,0019-04-11 09:47:00+00:00,Apr-19,Austin (TX),Stray,Nursing,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,Brown/White
+A792468,,0019-04-11 09:47:00+00:00,Apr-19,Austin (TX),Stray,Nursing,Dog,Intact Female,0 years,Chihuahua Shorthair Mix,Black/Tan
+A792469,,0019-04-11 09:47:00+00:00,Apr-19,Austin (TX),Stray,Nursing,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,Brown
+A792470,,0019-04-11 09:47:00+00:00,Apr-19,Austin (TX),Stray,Nursing,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,Brown/Tan
+A792471,,0019-04-11 09:47:00+00:00,Apr-19,Austin (TX),Stray,Nursing,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,Brown
+A792472,,0019-04-11 09:47:00+00:00,Apr-19,Austin (TX),Stray,Nursing,Dog,Intact Female,0 years,Chihuahua Shorthair Mix,Brown
+A842247,*Joy,0021-09-12 14:11:00+00:00,Sep-21,Travis (TX),Owner Surrender,Neonatal,Dog,Intact Female,0 years,Chihuahua Shorthair Mix,Chocolate/Tan
+A842248,*Calvin,0021-09-12 14:11:00+00:00,Sep-21,Travis (TX),Owner Surrender,Neonatal,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,White/Black
+A852557,Pickles,0022-03-05 10:22:00+00:00,Mar-22,Austin (TX),Stray,Neonatal,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,Black/White
+A852559,*Inigo,0022-03-05 10:22:00+00:00,Mar-22,Austin (TX),Stray,Neonatal,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,Sable
+A852560,*Fezzik,0022-03-05 10:22:00+00:00,Mar-22,Austin (TX),Stray,Neonatal,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,Black/Tan
+A852561,,0022-03-05 10:22:00+00:00,Mar-22,Austin (TX),Stray,Neonatal,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,Black/White
+A852562,,0022-03-05 10:22:00+00:00,Mar-22,Austin (TX),Stray,Neonatal,Dog,Intact Female,0 years,Chihuahua Shorthair Mix,Sable/White
+A852563,*Buttercup,0022-03-05 10:22:00+00:00,Mar-22,Austin (TX),Stray,Neonatal,Dog,Intact Female,0 years,Chihuahua Shorthair Mix,Tan/White
+A880186,,0023-04-27 15:24:00+00:00,Apr-23,7201 Levander Loop in Austin (TX),Stray,Pregnant,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,Chocolate/Tan
+A880187,,0023-04-27 15:24:00+00:00,Apr-23,7201 Levander Loop in Austin (TX),Stray,Pregnant,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,Chocolate/Tan
+A880188,,0023-04-27 15:24:00+00:00,Apr-23,7201 Levander Loop in Austin (TX),Stray,Pregnant,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,Chocolate/Tan
+A880189,,0023-04-27 15:24:00+00:00,Apr-23,7201 Levander Loop in Austin (TX),Stray,Pregnant,Dog,Intact Male,0 years,Chihuahua Shorthair Mix,White
+A796463,,0019-06-02 09:06:00+00:00,Jun-19,Born In Shelter in Austin (TX),Stray,Nursing,Dog,Intact Female,0 years,Chihuahua Shorthair/Dachshund,Brown/White
+A796464,,0019-06-02 09:06:00+00:00,Jun-19,Born In Shelter in Austin (TX),Stray,Nursing,Dog,Intact Female,0 years,Chihuahua Shorthair/Dachshund,White
+A796465,,0019-06-02 09:06:00+00:00,Jun-19,Born In Shelter in Austin (TX),Stray,Nursing,Dog,Intact Female,0 years,Chihuahua Shorthair/Dachshund,Tan/White
+A796466,,0019-06-02 09:06:00+00:00,Jun-19,Born In Shelter in Austin (TX),Stray,Nursing,Dog,Intact Female,0 years,Chihuahua Shorthair/Dachshund,Tan
+A796467,,0019-06-02 09:06:00+00:00,Jun-19,Born In Shelter in Austin (TX),Stray,Nursing,Dog,Intact Male,0 years,Chihuahua Shorthair/Dachshund,White
+A796468,,0019-06-02 09:06:00+00:00,Jun-19,Born In Shelter in Austin (TX),Stray,Nursing,Dog,Intact Male,0 years,Chihuahua Shorthair/Dachshund,Brown
+A865574,,0022-09-13 09:37:00+00:00,Sep-22,3800 Mt Bonnell Dr in Austin (TX),Stray,Normal,Dog,Intact Male,0 years,Chihuahua Shorthair/Dachshund,Tan/White
+A865575,,0022-09-13 09:37:00+00:00,Sep-22,3800 Mt Bonnell Dr in Austin (TX),Stray,Normal,Dog,Intact Male,0 years,Chihuahua Shorthair/Dachshund,Sable
+A865576,,0022-09-13 09:37:00+00:00,Sep-22,3800 Mt Bonnell Dr in Austin (TX),Stray,Normal,Dog,Intact Female,0 years,Chihuahua Shorthair/Dachshund,Sable
+A865577,,0022-09-13 09:37:00+00:00,Sep-22,3800 Mt Bonnell Dr in Austin (TX),Stray,Normal,Dog,Intact Female,0 years,Chihuahua Shorthair/Dachshund,Sable
+A706846,Mugsie,0015-07-04 09:16:00+00:00,Jul-15,7201 Levander Loop in Austin (TX),Stray,Nursing,Dog,Intact Male,0 years,Chihuahua Shorthair/Pug,Sable/Black
+A728450,,0016-06-01 13:38:00+00:00,Jun-16,5804 Walnut Cove in Austin (TX),Stray,Nursing,Dog,Unknown,0 years,Chow Chow Mix,White/Black
+A728451,,0016-06-01 13:38:00+00:00,Jun-16,5804 Walnut Cove in Austin (TX),Stray,Nursing,Dog,Unknown,0 years,Chow Chow Mix,Black/White
+A728452,,0016-06-01 13:38:00+00:00,Jun-16,5804 Walnut Cove in Austin (TX),Stray,Nursing,Dog,Unknown,0 years,Chow Chow Mix,Black/White
+A728453,,0016-06-01 13:38:00+00:00,Jun-16,5804 Walnut Cove in Austin (TX),Stray,Nursing,Dog,Unknown,0 years,Chow Chow Mix,Black/White
+A728454,,0016-06-01 13:38:00+00:00,Jun-16,5804 Walnut Cove in Austin (TX),Stray,Nursing,Dog,Unknown,0 years,Chow Chow Mix,Black/White
+A728455,,0016-06-01 13:38:00+00:00,Jun-16,5804 Walnut Cove in Austin (TX),Stray,Nursing,Dog,Unknown,0 years,Chow Chow Mix,Black/White
+A728456,,0016-06-01 13:38:00+00:00,Jun-16,5804 Walnut Cove in Austin (TX),Stray,Nursing,Dog,Unknown,0 years,Chow Chow Mix,Black
+A728457,,0016-06-01 13:38:00+00:00,Jun-16,5804 Walnut Cove in Austin (TX),Stray,Nursing,Dog,Unknown,0 years,Chow Chow Mix,Brown
+A728458,,0016-06-01 13:38:00+00:00,Jun-16,5804 Walnut Cove in Austin (TX),Stray,Nursing,Dog,Unknown,0 years,Chow Chow Mix,Brown/White
+A728459,,0016-06-01 13:38:00+00:00,Jun-16,5804 Walnut Cove in Austin (TX),Stray,Nursing,Dog,Unknown,0 years,Chow Chow Mix,Brown/White
+A820146,,0020-07-13 15:47:00+00:00,Jul-20,Austin (TX),Stray,Nursing,Dog,Intact Male,0 years,Collie Rough/Spanish Water Dog,Brown/Black
+A820147,,0020-07-13 15:47:00+00:00,Jul-20,Austin (TX),Stray,Nursing,Dog,Intact Male,0 years,Collie Rough/Spanish Water Dog,Brown
+A820148,,0020-07-13 15:47:00+00:00,Jul-20,Austin (TX),Stray,Nursing,Dog,Intact Female,0 years,Collie Rough/Spanish Water Dog,Brown
+A820149,,0020-07-13 15:47:00+00:00,Jul-20,Austin (TX),Stray,Nursing,Dog,Intact Female,0 years,Collie Rough/Spanish Water Dog,Brown/White
+A820150,,0020-07-13 15:47:00+00:00,Jul-20,Austin (TX),Stray,Nursing,Dog,Intact Female,0 years,Collie Rough/Spanish Water Dog,Brown/White
+A820151,,0020-07-13 15:47:00+00:00,Jul-20,Austin (TX),Stray,Nursing,Dog,Intact Male,0 years,Collie Rough/Spanish Water Dog,Brown/White
+A702176,,0015-05-10 14:06:00+00:00,May-15,1209 Crupp Ct in Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Longhair Mix,White/Brown Tabby
+A702177,,0015-05-10 14:06:00+00:00,May-15,1209 Crupp Ct in Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Longhair Mix,Black
+A702174,,0015-05-10 14:06:00+00:00,May-15,1209 Crupp Ct in Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Longhair Mix,Black
+A719538,*Marisella,0016-01-22 12:26:00+00:00,Jan-16,Manor Rd And Wheeles Dr in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Longhair Mix,Calico
+A719539,*Melindra,0016-01-22 12:26:00+00:00,Jan-16,Manor Rd And Wheeles Dr in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Longhair Mix,Blue Tabby
+A719540,*Mistoffeles,0016-01-22 12:26:00+00:00,Jan-16,Manor Rd And Wheeles Dr in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Longhair Mix,Blue Tabby/White
+A719541,*Mcpherson,0016-01-22 12:26:00+00:00,Jan-16,Manor Rd And Wheeles Dr in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Longhair Mix,Brown Tabby
+A719542,*Mortimer,0016-01-22 12:26:00+00:00,Jan-16,Manor Rd And Wheeles Dr in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Longhair Mix,Brown Tabby
+A775692,*Faith,0018-07-03 16:10:00+00:00,Jul-18,Travis (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Longhair Mix,Brown Tabby
+A775683,*Prudence,0018-07-03 16:10:00+00:00,Jul-18,Travis (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Longhair Mix,Brown Tabby
+A775728,Boo,0018-07-03 16:10:00+00:00,Jul-18,Travis (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Longhair Mix,Black
+A791459,*Chunky,0019-03-23 13:04:00+00:00,Mar-19,833 Fairfield Drive in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Longhair Mix,Black/White
+A792475,*Stanley,0019-04-11 10:55:00+00:00,Apr-19,Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Longhair Mix,Brown Tabby/White
+A796128,385 Grams,0019-05-29 12:47:00+00:00,May-19,2602 Monarch Drive in Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Medium Hair,Cream Tabby/White
+A797862,,0019-06-18 15:33:00+00:00,Jun-19,10516 Turnball in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Medium Hair,Blue Tabby
+A800155,,0019-07-16 12:44:00+00:00,Jul-19,Suzi Lane And Royston Drive in Pflugerville (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Medium Hair,Black
+A800156,,0019-07-16 12:44:00+00:00,Jul-19,Suzi Lane And Royston Drive in Pflugerville (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Medium Hair,Blue/White
+A840750,,0021-08-13 09:10:00+00:00,Aug-21,8209 Sam Rayburn Drive in Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Medium Hair,Blue Tabby
+A840751,,0021-08-13 09:10:00+00:00,Aug-21,8209 Sam Rayburn Drive in Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Medium Hair,Black
+A903849,*Mush,0024-05-03 15:51:00+00:00,May-24,1712 Peridot Road in Travis (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Medium Hair,White/Black
+A925678,,0025-02-27 07:54:00+00:00,Feb-25,Toll Gate in Austin (TX),Stray,Neonatal,Cat,Unknown,0 years,Domestic Medium Hair,Orange
+A925697,,0025-02-27 07:54:00+00:00,Feb-25,Toll Gate in Austin (TX),Stray,Neonatal,Cat,Unknown,0 years,Domestic Medium Hair,Orange
+A926467,,0025-03-11 12:55:00+00:00,Mar-25,Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Medium Hair,Blue Tabby/White
+A749635,,0017-05-14 14:19:00+00:00,May-17,1834 Ferguson in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Medium Hair Mix,Black
+A790803,,0019-03-16 16:01:00+00:00,Mar-19,Pflugerville (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Medium Hair Mix,Blue/White
+A791931,,0019-03-26 11:26:00+00:00,Mar-19,West Slaughter Lane And Manchaca Road in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Medium Hair Mix,Blue Tabby/White
+A791932,,0019-03-26 11:26:00+00:00,Mar-19,West Slaughter Lane And Manchaca Road in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Medium Hair Mix,Blue Tabby/White
+A792773,*Bill,0019-04-15 12:44:00+00:00,Apr-19,9805 Halifax Drive in Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Medium Hair Mix,Orange Tabby
+A803599,,0019-09-03 12:31:00+00:00,Sep-19,21602 Cherry Hollow Drive in Travis (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Medium Hair Mix,Black/White
+A681954,,0014-05-19 18:07:00+00:00,May-14,4434 Frontier Trl in Austin (TX),Stray,Other,Cat,Intact Male,0 years,Domestic Shorthair,Blue/Gray
+A724192,,0016-04-13 14:05:00+00:00,Apr-16,5705 Claystone Cv in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair,Brown Tabby
+A795143,,0019-05-16 15:22:00+00:00,May-19,126 West Oltorf in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair,White/Black
+A795144,,0019-05-16 15:22:00+00:00,May-19,126 West Oltorf in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair,White/Black
+A795990,,0019-05-27 12:48:00+00:00,May-19,1050 Springdale Road in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair,Black Tabby
+A796436,,0019-06-01 16:23:00+00:00,Jun-19,Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair,Brown Tabby/White
+A796437,,0019-06-01 16:23:00+00:00,Jun-19,Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair,Black/White
+A796445,,0019-06-01 17:22:00+00:00,Jun-19,Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair,Black/White
+A796446,,0019-06-01 17:22:00+00:00,Jun-19,Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair,Blue
+A796447,,0019-06-01 17:22:00+00:00,Jun-19,Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair,Black/White
+A798597,,0019-06-28 09:31:00+00:00,Jun-19,1300 Smith Road in Austin (TX),Stray,Injured,Cat,Unknown,0 years,Domestic Shorthair,Orange Tabby
+A798599,,0019-06-28 10:45:00+00:00,Jun-19,5211 Cameron Road in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair,Brown Tabby
+A798680,,0019-06-29 09:54:00+00:00,Jun-19,1400 Meadowmear in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair,Orange Tabby
+A798681,,0019-06-29 09:54:00+00:00,Jun-19,1400 Meadowmear in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair,White
+A798985,,0019-07-02 17:08:00+00:00,Jul-19,6108 Langham Street in Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair,Orange Tabby
+A799030,,0019-07-03 13:06:00+00:00,Jul-19,408 West Odell in Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair,Blue
+A799031,,0019-07-03 13:06:00+00:00,Jul-19,408 West Odell in Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair,Black
+A799118,,0019-07-05 12:30:00+00:00,Jul-19,14602 Varrelman in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair,Black
+A799119,,0019-07-05 12:30:00+00:00,Jul-19,14602 Varrelman in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair,Black
+A799226,,0019-07-06 11:11:00+00:00,Jul-19,12013 Hiway 290 West in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair,Black
+A802049,,0019-07-16 13:08:00+00:00,Jul-19,16704 Hamilton in Austin (TX),Stray,Injured,Cat,Intact Male,0 years,Domestic Shorthair,White
+A800201,Princess,0019-07-17 17:53:00+00:00,Jul-19,5103 Nixon Lane in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Calico
+A800229,,0019-07-18 11:48:00+00:00,Jul-19,4104 Sugarloaf Dr in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair,Orange
+A802053,,0019-07-25 13:28:00+00:00,Jul-19,508 E Howard Lane in Austin (TX),Stray,Injured,Cat,Unknown,0 years,Domestic Shorthair,Black
+A801578,*Ash,0019-08-05 18:12:00+00:00,Aug-19,9704 Giles Road in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Cream Tabby
+A801556,*Ginger,0019-08-05 18:12:00+00:00,Aug-19,9704 Giles Road in Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair,Orange Tabby
+A801557,*Cheeto,0019-08-05 18:12:00+00:00,Aug-19,9704 Giles Road in Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair,Orange Tabby
+A801965,*Forrest,0019-08-12 13:42:00+00:00,Aug-19,5902 Blythewood Drive in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Cream Tabby/White
+A801966,*Snow White,0019-08-12 13:42:00+00:00,Aug-19,5902 Blythewood Drive in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Cream Tabby/White
+A801967,*Ricky,0019-08-12 13:42:00+00:00,Aug-19,5902 Blythewood Drive in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Orange Tabby/White
+A801968,*Lizzie,0019-08-12 13:42:00+00:00,Aug-19,5902 Blythewood Drive in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Orange Tabby/White
+A803856,,0019-09-07 12:17:00+00:00,Sep-19,5600 Sunny Vista in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Black/White
+A803857,,0019-09-07 12:17:00+00:00,Sep-19,5600 Sunny Vista in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Black/White
+A803858,,0019-09-07 12:17:00+00:00,Sep-19,5600 Sunny Vista in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,White/Black
+A803859,,0019-09-07 12:17:00+00:00,Sep-19,5600 Sunny Vista in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Black/White
+A803860,,0019-09-07 12:17:00+00:00,Sep-19,5600 Sunny Vista in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Black/White
+A804197,,0019-09-11 16:46:00+00:00,Sep-19,Jollyville And Braker Ln in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Black/White
+A804434,,0019-09-14 15:53:00+00:00,Sep-19,10603 Etta Ln in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair,Brown Tabby/White
+A804435,,0019-09-14 15:53:00+00:00,Sep-19,10603 Etta Ln in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair,Brown Tabby
+A808633,*Cinnamon,0019-11-11 13:24:00+00:00,Nov-19,807 West Live Oak Street in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Orange Tabby/White
+A813926,,0020-02-21 08:56:00+00:00,Feb-20,508 East Howard Lane in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair,Black
+A813927,,0020-02-21 08:56:00+00:00,Feb-20,508 East Howard Lane in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair,Black
+A813928,,0020-02-21 08:56:00+00:00,Feb-20,508 East Howard Lane in Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair,Tortie
+A813929,,0020-02-21 08:56:00+00:00,Feb-20,508 East Howard Lane in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair,Orange Tabby
+A813930,,0020-02-21 08:56:00+00:00,Feb-20,508 East Howard Lane in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair,Orange Tabby
+A813931,,0020-02-21 08:56:00+00:00,Feb-20,508 East Howard Lane in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair,Orange Tabby
+A816305,*Peep,0020-04-12 00:00:00+00:00,Apr-20,Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Cream
+A816306,*Jelly Bean,0020-04-12 00:00:00+00:00,Apr-20,Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Black
+A816307,*Cadbury,0020-04-12 00:00:00+00:00,Apr-20,Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Black/White
+A816526,*Oliver,0020-04-17 00:00:00+00:00,Apr-20,Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,White
+A816527,*Ruth,0020-04-17 00:00:00+00:00,Apr-20,Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Blue/White
+A816528,*Dollie,0020-04-17 00:00:00+00:00,Apr-20,Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Blue/White
+A818565,,0020-06-10 16:56:00+00:00,Jun-20,14301 N Ih 35 in Travis (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair,Orange Tabby/White
+A818566,,0020-06-10 16:56:00+00:00,Jun-20,14301 N Ih 35 in Travis (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair,Black
+A819590,*85 G Single,0020-07-01 12:57:00+00:00,Jul-20,8501 Colony Loop Drive in Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair,Gray Tabby
+A821251,*Naveen,0020-08-07 10:20:00+00:00,Aug-20,Travis (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair,Black
+A821252,Wolfgang,0020-08-07 10:20:00+00:00,Aug-20,Travis (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair,Black
+A821253,,0020-08-07 10:20:00+00:00,Aug-20,Travis (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair,Black
+A821254,,0020-08-07 10:20:00+00:00,Aug-20,Travis (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair,Brown Tabby
+A821255,*Tiana,0020-08-07 10:20:00+00:00,Aug-20,Travis (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby
+A821256,Pen√©lope,0020-08-07 10:20:00+00:00,Aug-20,Travis (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby
+A821257,*Simba,0020-08-07 10:20:00+00:00,Aug-20,Travis (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair,Brown Tabby
+A822806,,0020-09-10 07:40:00+00:00,Sep-20,Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair,Tortie
+A822807,,0020-09-10 07:40:00+00:00,Sep-20,Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair,Tortie
+A825065,,0020-10-27 13:12:00+00:00,Oct-20,Putnam Drive And Payton Gin Road in Austin (TX),Stray,Sick,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby
+A826726,,0020-12-04 14:08:00+00:00,Dec-20,Austin (TX),Owner Surrender,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,White
+A829748,*Zuzu,0021-02-19 11:46:00+00:00,Feb-21,4407 Merle Drive in Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair,Black
+A829749,*Zia,0021-02-19 11:46:00+00:00,Feb-21,4407 Merle Drive in Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair,Blue Tabby
+A829750,*Gigi,0021-02-19 11:46:00+00:00,Feb-21,4407 Merle Drive in Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair,Blue
+A829751,*Luke,0021-02-19 11:46:00+00:00,Feb-21,4407 Merle Drive in Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair,Blue
+A829752,*Han,0021-02-19 11:46:00+00:00,Feb-21,4407 Merle Drive in Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair,Blue
+A830728,,0021-03-13 05:00:00+00:00,Mar-21,Travis (TX),Public Assist,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Torbie
+A830729,,0021-03-13 05:00:00+00:00,Mar-21,Travis (TX),Public Assist,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Blue Tabby
+A830730,,0021-03-13 05:00:00+00:00,Mar-21,Travis (TX),Public Assist,Nursing,Cat,Unknown,0 years,Domestic Shorthair,Black/White
+A832261,*Jack-Jack,0021-04-10 11:05:00+00:00,Apr-21,Prairie Trail in Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby/White
+A832262,*Elle Woods,0021-04-10 11:05:00+00:00,Apr-21,Prairie Trail in Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby/White
+A832263,*River Delta,0021-04-10 11:05:00+00:00,Apr-21,Prairie Trail in Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair,Black/White
+A832264,*Helios,0021-04-10 11:05:00+00:00,Apr-21,Prairie Trail in Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair,Brown Tabby/White
+A832265,*Puddles,0021-04-10 11:05:00+00:00,Apr-21,Prairie Trail in Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair,Black/White
+A833350,,0021-04-28 14:52:00+00:00,Apr-21,4801 Turnstone Drive in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair,Black
+A833878,,0021-05-06 20:28:00+00:00,May-21,1001 Farm To Market 685 in Travis (TX),Public Assist,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby/White
+A833881,,0021-05-07 09:33:00+00:00,May-21,4434 Frontier Trail in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Blue Tabby
+A853991,,0021-06-07 13:06:00+00:00,Jun-21,8008 Marble Ridge Drive in Austin (TX),Stray,Normal,Cat,Neutered Male,0 years,Domestic Shorthair,Brown Tabby/White
+A836294,Apollo,0021-06-08 13:36:00+00:00,Jun-21,17709 Powder Creek Drive in Manor (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Orange Tabby
+A836295,Nova,0021-06-08 13:36:00+00:00,Jun-21,17709 Powder Creek Drive in Manor (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Torbie
+A836651,A836651,0021-06-12 17:17:00+00:00,Jun-21,Gregg Manor Road in Travis (TX),Stray,Other,Cat,Intact Male,0 years,Domestic Shorthair,White/Orange Tabby
+A836652,A836652,0021-06-12 17:17:00+00:00,Jun-21,Gregg Manor Road in Travis (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,White/Orange Tabby
+A836653,A836653,0021-06-12 17:17:00+00:00,Jun-21,Gregg Manor Road in Travis (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,White/Orange Tabby
+A836654,A836654,0021-06-12 17:17:00+00:00,Jun-21,Gregg Manor Road in Travis (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,White/Orange Tabby
+A836655,A836655,0021-06-12 17:17:00+00:00,Jun-21,Gregg Manor Road in Travis (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Black/White
+A836656,A836656,0021-06-12 17:17:00+00:00,Jun-21,Gregg Manor Road in Travis (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby/White
+A837958,*Cupid,0021-07-01 09:32:00+00:00,Jul-21,Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Black/White
+A837959,,0021-07-01 09:32:00+00:00,Jul-21,Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair,Black/White
+A837960,,0021-07-01 09:32:00+00:00,Jul-21,Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair,White/Black
+A837961,,0021-07-01 09:32:00+00:00,Jul-21,Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair,White
+A839224,,0021-07-15 12:49:00+00:00,Jul-21,7403 East Riverside in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Orange Tabby
+A839225,,0021-07-15 12:49:00+00:00,Jul-21,7403 East Riverside in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Orange Tabby
+A839226,*Robin,0021-07-15 12:49:00+00:00,Jul-21,7403 East Riverside in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Orange Tabby
+A839227,*Finch,0021-07-15 12:49:00+00:00,Jul-21,7403 East Riverside in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Orange
+A839228,*Wren,0021-07-15 12:49:00+00:00,Jul-21,7403 East Riverside in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Tortie
+A839229,Autumn,0021-07-15 12:49:00+00:00,Jul-21,7403 East Riverside in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Tortie
+A839230,A839230,0021-07-15 12:49:00+00:00,Jul-21,7403 East Riverside in Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby
+A839142,,0021-07-16 17:14:00+00:00,Jul-21,5601 Baythorne Dr in Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair,White/Blue
+A839143,,0021-07-16 17:14:00+00:00,Jul-21,5601 Baythorne Dr in Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair,Blue Tabby
+A839144,,0021-07-16 17:14:00+00:00,Jul-21,5601 Baythorne Dr in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair,Black
+A839145,,0021-07-16 17:14:00+00:00,Jul-21,5601 Baythorne Dr in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair,Black
+A839146,,0021-07-16 17:14:00+00:00,Jul-21,5601 Baythorne Dr in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair,Black
+A839147,,0021-07-16 17:14:00+00:00,Jul-21,5601 Baythorne Dr in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair,Black
+A839952,,0021-07-29 14:59:00+00:00,Jul-21,Bee Cave (TX),Owner Surrender,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Tortie
+A839953,,0021-07-29 14:59:00+00:00,Jul-21,Bee Cave (TX),Owner Surrender,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Black
+A839954,,0021-07-29 14:59:00+00:00,Jul-21,Bee Cave (TX),Owner Surrender,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Orange Tabby
+A839955,,0021-07-29 14:59:00+00:00,Jul-21,Bee Cave (TX),Owner Surrender,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Orange Tabby
+A840066,,0021-08-02 08:19:00+00:00,Aug-21,13542 Research Blvd in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Brown Tabby
+A840067,,0021-08-02 08:19:00+00:00,Aug-21,13542 Research Blvd in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Brown Tabby
+A840068,,0021-08-02 08:19:00+00:00,Aug-21,13542 Research Blvd in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Brown Tabby
+A843826,,0021-10-07 08:10:00+00:00,Oct-21,9125 South Fm 973 in Austin (TX),Owner Surrender,Neonatal,Cat,Unknown,0 years,Domestic Shorthair,Black
+A844762,96 G,0021-10-16 12:11:00+00:00,Oct-21,715 W Powell Ln in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Blue Tabby
+A844763,82 G,0021-10-16 12:11:00+00:00,Oct-21,715 W Powell Ln in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Blue Tabby
+A844764,89 G,0021-10-16 12:11:00+00:00,Oct-21,715 W Powell Ln in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,White
+A844765,80 G,0021-10-16 12:11:00+00:00,Oct-21,715 W Powell Ln in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,White
+A851770,*Stache,0022-02-18 09:35:00+00:00,Feb-22,1411 Gracy Farms Lane in Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Blue/White
+A851771,*Ava,0022-02-18 09:35:00+00:00,Feb-22,1411 Gracy Farms Lane in Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Black
+A851772,*Jules,0022-02-18 09:35:00+00:00,Feb-22,1411 Gracy Farms Lane in Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Black
+A853368,*Cookies & Creme,0022-03-17 15:37:00+00:00,Mar-22,Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Black/White
+A853369,*Star Crunch,0022-03-17 15:37:00+00:00,Mar-22,Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Black
+A853370,*Cosmic Brownie,0022-03-17 15:37:00+00:00,Mar-22,Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Black
+A853384,*Zebra Cakes,0022-03-17 15:37:00+00:00,Mar-22,Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Blue/White
+A853472,A853472,0022-03-19 08:28:00+00:00,Mar-22,4434 Frontier Trail in Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Blue Tabby/White
+A856530,,0022-05-02 14:43:00+00:00,May-22,8300 N I 35 in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair,Brown Tabby
+A856531,,0022-05-02 14:43:00+00:00,May-22,8300 N I 35 in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair,Brown Tabby
+A856532,,0022-05-02 14:43:00+00:00,May-22,8300 N I 35 in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair,Orange Tabby
+A856534,,0022-05-02 14:43:00+00:00,May-22,8300 N I 35 in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair,Orange Tabby
+A859105,101 G,0022-06-08 20:28:00+00:00,Jun-22,6625 Mckinney Falls Parkway in Travis (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Black
+A861642,Oreo,0022-07-15 14:08:00+00:00,Jul-22,4434 Frontier Trail in Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Black
+A861643,Coco,0022-07-15 14:08:00+00:00,Jul-22,4434 Frontier Trail in Austin (TX),Owner Surrender,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby
+A861644,*Dots,0022-07-15 14:08:00+00:00,Jul-22,4434 Frontier Trail in Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Brown Tabby
+A861645,*Stache,0022-07-15 14:08:00+00:00,Jul-22,4434 Frontier Trail in Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Brown Tabby
+A861756,*Yosemite Sam,0022-07-15 18:34:00+00:00,Jul-22,Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Orange Tabby/White
+A861757,*Marvin Martian,0022-07-15 18:34:00+00:00,Jul-22,Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Cream Tabby/White
+A861763,*Penelope Pussycat,0022-07-15 18:34:00+00:00,Jul-22,Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby
+A861773,*Daffy Duck,0022-07-15 18:34:00+00:00,Jul-22,Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Tortie
+A864547,,0022-08-27 09:52:00+00:00,Aug-22,Austin (TX),Owner Surrender,Neonatal,Cat,Unknown,0 years,Domestic Shorthair,White
+A864548,,0022-08-27 09:56:00+00:00,Aug-22,Austin (TX),Owner Surrender,Neonatal,Cat,Unknown,0 years,Domestic Shorthair,White
+A864549,,0022-08-27 09:58:00+00:00,Aug-22,Austin (TX),Owner Surrender,Neonatal,Cat,Unknown,0 years,Domestic Shorthair,White
+A864587,,0022-08-28 00:00:00+00:00,Aug-22,Austin (TX),Owner Surrender,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Blue
+A866624,,0022-10-03 19:34:00+00:00,Oct-22,Austin (TX),Stray,Neonatal,Cat,Unknown,0 years,Domestic Shorthair,Blue Tabby
+A868023,89 Grams,0022-10-27 12:43:00+00:00,Oct-22,4106 North Lamar Boulevard in Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Brown Tabby
+A868020,73 Grams,0022-10-27 12:43:00+00:00,Oct-22,4106 North Lamar Boulevard in Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Black
+A868021,80 Grams,0022-10-27 12:43:00+00:00,Oct-22,4106 North Lamar Boulevard in Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Tortie
+A868030,105 Grams,0022-10-27 14:06:00+00:00,Oct-22,1104 East 2Nd Street in Travis (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Tortie
+A870893,,0022-12-14 16:52:00+00:00,Dec-22,Austin (TX),Owner Surrender,Neonatal,Cat,Unknown,0 years,Domestic Shorthair,White
+A870894,#2,0022-12-14 16:52:00+00:00,Dec-22,Austin (TX),Owner Surrender,Neonatal,Cat,Unknown,0 years,Domestic Shorthair,Cream Tabby
+A873394,,0023-01-24 11:19:00+00:00,Jan-23,5806 Encinal Cv in Austin (TX),Owner Surrender,Normal,Cat,Unknown,0 years,Domestic Shorthair,Gray
+A873395,,0023-01-24 11:19:00+00:00,Jan-23,5806 Encinal Cv in Austin (TX),Owner Surrender,Normal,Cat,Unknown,0 years,Domestic Shorthair,Gray
+A875082,A875082,0023-02-22 07:51:00+00:00,Feb-23,11416 Ranch Road 620 North in Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Black
+A875848,,0023-03-05 18:48:00+00:00,Mar-23,1100 Windy Trail Unit A in Austin (TX),Stray,Med Urgent,Cat,Unknown,0 years,Domestic Shorthair,Orange
+A875849,,0023-03-05 18:48:00+00:00,Mar-23,1100 Windy Trail Unit A in Austin (TX),Stray,Med Urgent,Cat,Unknown,0 years,Domestic Shorthair,Orange
+A875850,,0023-03-05 18:48:00+00:00,Mar-23,1100 Windy Trail Unit A in Austin (TX),Stray,Med Urgent,Cat,Unknown,0 years,Domestic Shorthair,Orange
+A875851,,0023-03-05 18:48:00+00:00,Mar-23,1100 Windy Trail Unit A in Austin (TX),Stray,Med Urgent,Cat,Unknown,0 years,Domestic Shorthair,Orange
+A876407,,0023-03-12 16:36:00+00:00,Mar-23,Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair,Black/White
+A876408,*Catherine,0023-03-12 16:36:00+00:00,Mar-23,Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Black/White
+A876649,Jersey,0023-03-17 13:33:00+00:00,Mar-23,Travis (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Black/White
+A876650,*Nyla,0023-03-17 13:33:00+00:00,Mar-23,Travis (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Blue
+A876651,Luka,0023-03-17 13:33:00+00:00,Mar-23,Travis (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Blue Tabby
+A876652,Gravy,0023-03-17 13:33:00+00:00,Mar-23,Travis (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Blue Tabby
+A876653,Bug,0023-03-17 13:33:00+00:00,Mar-23,Travis (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby
+A876654,*Ayla,0023-03-17 13:33:00+00:00,Mar-23,Travis (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby/White
+A876744,,0023-03-19 11:32:00+00:00,Mar-23,7201 Levander Loop in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Blue Tabby
+A876745,,0023-03-19 11:32:00+00:00,Mar-23,7201 Levander Loop in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Torbie
+A876746,,0023-03-19 11:32:00+00:00,Mar-23,7201 Levander Loop in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Torbie
+A876747,,0023-03-19 11:32:00+00:00,Mar-23,7201 Levander Loop in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Brown Tabby/White
+A877047,68 Grams,0023-03-23 11:16:00+00:00,Mar-23,Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Black
+A877048,69 Grams,0023-03-23 11:16:00+00:00,Mar-23,Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Black/White
+A877049,78 Grams,0023-03-23 11:16:00+00:00,Mar-23,Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Blue/White
+A877050,61 Grams,0023-03-23 11:16:00+00:00,Mar-23,Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Black/White
+A877051,64 Garms,0023-03-23 11:16:00+00:00,Mar-23,Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Black/White
+A877052,56 Grams,0023-03-23 11:16:00+00:00,Mar-23,Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Tortie
+A877433,,0023-03-27 13:19:00+00:00,Mar-23,7201 Levander Loop in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Blue
+A877434,White Tiger,0023-03-27 13:19:00+00:00,Mar-23,7201 Levander Loop in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Blue
+A877435,,0023-03-27 13:19:00+00:00,Mar-23,7201 Levander Loop in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Blue
+A877491,*Fancy,0023-03-28 11:13:00+00:00,Mar-23,Inside Rental Car At Facility Above in Austin (TX),Stray,Sick,Cat,Intact Male,0 years,Domestic Shorthair,Brown Tabby/White
+A877492,*Feisty,0023-03-28 11:13:00+00:00,Mar-23,Inside Rental Car At Facility Above in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Calico/White
+A877584,*Genevieve,0023-03-29 17:21:00+00:00,Mar-23,7201 Levander Loop in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Tortie
+A879603,,0023-04-28 11:20:00+00:00,Apr-23,Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Tortie
+A879768,78 Grams,0023-04-30 18:16:00+00:00,Apr-23,Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair,Black
+A880216,,0023-05-05 16:15:00+00:00,May-23,1003 Fieldwood Drive in Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Cream Tabby
+A881120,,0023-05-17 16:40:00+00:00,May-23,Austin (TX),Abandoned,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Black/White
+A882004,,0023-05-30 13:18:00+00:00,May-23,12011 Yanez Drive in Travis (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Brown Tabby
+A882005,*Daegol,0023-05-30 13:18:00+00:00,May-23,12011 Yanez Drive in Travis (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Brown Tabby
+A882007,*Maddox,0023-05-30 13:18:00+00:00,May-23,12011 Yanez Drive in Travis (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Brown Tabby
+A883092,,0023-06-12 23:00:00+00:00,Jun-23,Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Blue
+A883093,,0023-06-12 23:00:00+00:00,Jun-23,Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Blue Tabby
+A883094,,0023-06-12 23:00:00+00:00,Jun-23,Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Black
+A883095,,0023-06-12 23:00:00+00:00,Jun-23,Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Black
+A883096,,0023-06-12 23:00:00+00:00,Jun-23,Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby
+A883097,,0023-06-12 23:00:00+00:00,Jun-23,Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,White
+A884395,*Ty,0023-07-02 12:36:00+00:00,Jul-23,1907 East Stassney Lane in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Brown Tabby
+A884389,*Katherine,0023-07-02 12:36:00+00:00,Jul-23,1907 East Stassney Lane in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Orange Tabby
+A884391,*Rosa,0023-07-02 12:36:00+00:00,Jul-23,1907 East Stassney Lane in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Orange Tabby
+A884394,*Louie,0023-07-02 12:36:00+00:00,Jul-23,Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Black
+A885075,*Taaka,0023-07-12 14:51:00+00:00,Jul-23,6704 Panda Royal in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Blue Tabby/White
+A886273,,0023-08-02 00:00:00+00:00,Aug-23,Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Blue Tabby
+A886274,,0023-08-02 00:00:00+00:00,Aug-23,Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Blue Tabby
+A886275,,0023-08-02 00:00:00+00:00,Aug-23,Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Torbie
+A886276,,0023-08-02 00:00:00+00:00,Aug-23,Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Tortie
+A886914,*Kumo,0023-08-11 20:00:00+00:00,Aug-23,1026 Clayton Lane in Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Flame Point
+A886915,*Ginji,0023-08-11 20:00:00+00:00,Aug-23,1026 Clayton Lane in Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Seal Point
+A886916,*Inyo,0023-08-11 20:00:00+00:00,Aug-23,1026 Clayton Lane in Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Black/White
+A886917,*Ryuu,0023-08-11 20:00:00+00:00,Aug-23,1026 Clayton Lane in Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Orange Tabby/White
+A887041,*Tater Tot,0023-08-14 13:10:00+00:00,Aug-23,Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Black/White
+A887966,,0023-08-29 11:30:00+00:00,Aug-23,Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Blue/White
+A887967,,0023-08-29 11:30:00+00:00,Aug-23,Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Blue Tabby/White
+A887968,,0023-08-29 11:30:00+00:00,Aug-23,Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,White/Brown Tabby
+A887969,,0023-08-29 11:30:00+00:00,Aug-23,Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Blue Tabby/White
+A887970,Baby,0023-08-29 11:30:00+00:00,Aug-23,Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Blue Tabby/White
+A889426,78 Grams,0023-09-22 09:44:00+00:00,Sep-23,Travis (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Orange Tabby
+A889427,97 Grams,0023-09-22 09:44:00+00:00,Sep-23,Travis (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Orange Tabby
+A889428,87 Grams,0023-09-22 09:44:00+00:00,Sep-23,Travis (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Torbie
+A889433,71 Grams,0023-09-22 10:50:00+00:00,Sep-23,Austin (TX),Stray,Neonatal,Cat,Unknown,0 years,Domestic Shorthair,Black
+A889434,,0023-09-22 10:50:00+00:00,Sep-23,7000 Creedmoor Drive in Austin (TX),Stray,Neonatal,Cat,Unknown,0 years,Domestic Shorthair,Black/White
+A889435,63 Grams,0023-09-22 10:50:00+00:00,Sep-23,Austin (TX),Stray,Neonatal,Cat,Unknown,0 years,Domestic Shorthair,Silver Tabby
+A891065,,0023-10-16 12:05:00+00:00,Oct-23,Austin (TX),Owner Surrender,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,White
+A891066,,0023-10-16 12:05:00+00:00,Oct-23,Austin (TX),Owner Surrender,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby
+A891067,,0023-10-16 12:05:00+00:00,Oct-23,Austin (TX),Owner Surrender,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby
+A891068,,0023-10-16 12:05:00+00:00,Oct-23,Austin (TX),Owner Surrender,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby
+A892975,*Gravy,0023-11-13 14:30:00+00:00,Nov-23,1302 Parker Ln in Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Tortie
+A892976,*Peep,0023-11-13 14:30:00+00:00,Nov-23,1302 Parker Ln in Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Black
+A892977,,0023-11-13 14:30:00+00:00,Nov-23,1302 Parker Ln in Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Orange Tabby
+A892978,*Biscuit,0023-11-13 14:30:00+00:00,Nov-23,1302 Parker Ln in Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Cream Tabby
+A892979,*Mousse,0023-11-13 14:30:00+00:00,Nov-23,1302 Parker Ln in Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Black
+A893741,,0023-11-27 19:36:00+00:00,Nov-23,Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair,Black
+A893742,*Foxy Brown,0023-11-27 19:36:00+00:00,Nov-23,Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby
+A893743,,0023-11-27 19:36:00+00:00,Nov-23,Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby/White
+A894293,,0023-12-04 17:16:00+00:00,Dec-23,Austin (TX),Owner Surrender,Normal,Cat,Unknown,0 years,Domestic Shorthair,Black
+A894295,,0023-12-04 17:16:00+00:00,Dec-23,Austin (TX),Owner Surrender,Normal,Cat,Unknown,0 years,Domestic Shorthair,Black
+A896364,,0024-01-14 11:15:00+00:00,Jan-24,1500 Ryman Rd in Travis (TX),Stray,Sick,Cat,Intact Male,0 years,Domestic Shorthair,Orange Tabby
+A898698,,0024-02-21 18:00:00+00:00,Feb-24,Apperson Street in Travis (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby/White
+A898699,,0024-02-21 18:00:00+00:00,Feb-24,Apperson Street in Travis (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Orange Tabby/White
+A898700,*Hanni,0024-02-21 18:00:00+00:00,Feb-24,Apperson Street in Travis (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Black/White
+A898701,,0024-02-21 18:00:00+00:00,Feb-24,Apperson Street in Travis (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Black Tabby/White
+A898702,*Socks,0024-02-21 18:00:00+00:00,Feb-24,Apperson Street in Travis (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Brown Tabby/White
+A899902,,0024-03-12 12:33:00+00:00,Mar-24,2311 Wirtz Ave in Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Torbie
+A899903,,0024-03-12 12:33:00+00:00,Mar-24,2311 Wirtz Ave in Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Brown Tabby
+A899904,,0024-03-12 12:33:00+00:00,Mar-24,2311 Wirtz Ave in Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Black
+A899905,,0024-03-12 12:33:00+00:00,Mar-24,2311 Wirtz Ave in Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Black/White
+A900383,92 Grams,0024-03-19 12:47:00+00:00,Mar-24,Villita Avenida in Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Black/White
+A900384,85 Grams,0024-03-19 12:47:00+00:00,Mar-24,Villita Avenida in Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Blue Tabby
+A900680,140 Grams,0024-03-22 22:09:00+00:00,Mar-24,7011 Pace Bend Rd in Travis (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Black
+A902142,85 Grams,0024-04-13 13:48:00+00:00,Apr-24,5617 Jfk in Travis (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Brown Tabby
+A902143,86 Grams,0024-04-13 13:48:00+00:00,Apr-24,5617 Jfk in Travis (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby/White
+A902144,66 Grams,0024-04-13 13:48:00+00:00,Apr-24,5617 Jfk in Travis (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,White/Calico
+A902145,92 Grams,0024-04-13 13:48:00+00:00,Apr-24,5617 Jfk in Travis (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,White/Black
+A902860,,0024-04-22 17:12:00+00:00,Apr-24,Stoney Point in Travis (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair,Black
+A902862,,0024-04-22 17:12:00+00:00,Apr-24,Stoney Point in Travis (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair,Calico
+A902863,,0024-04-22 17:12:00+00:00,Apr-24,Stoney Point in Travis (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair,Brown Tabby
+A903005,Bandit,0024-04-24 09:14:00+00:00,Apr-24,Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,White/Black
+A903006,Zoro,0024-04-24 09:14:00+00:00,Apr-24,Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Black/White
+A903007,,0024-04-24 09:14:00+00:00,Apr-24,Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,White/Black
+A904126,*Caspar,0024-05-06 10:19:00+00:00,May-24,2315 Teri Road in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Lilac Point
+A904127,*Cooper,0024-05-06 10:19:00+00:00,May-24,2315 Teri Road in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Lilac Point
+A904128,*Cookie,0024-05-06 10:19:00+00:00,May-24,2315 Teri Road in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Blue Tabby/White
+A904129,*Bootsy,0024-05-06 10:19:00+00:00,May-24,2315 Teri Road in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Brown Tabby
+A904130,*Tab,0024-05-06 10:19:00+00:00,May-24,2315 Teri Road in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Brown Tabby/White
+A909239,,0024-07-11 18:00:00+00:00,Jul-24,1301 W Oltorf in Austin (TX),Stray,Neonatal,Cat,Unknown,0 years,Domestic Shorthair,White
+A909240,,0024-07-11 18:00:00+00:00,Jul-24,1301 W Oltorf in Austin (TX),Stray,Neonatal,Cat,Unknown,0 years,Domestic Shorthair,White
+A909241,,0024-07-11 18:00:00+00:00,Jul-24,1301 W Oltorf in Austin (TX),Stray,Neonatal,Cat,Unknown,0 years,Domestic Shorthair,White
+A909242,,0024-07-11 18:00:00+00:00,Jul-24,1301 W Oltorf in Austin (TX),Stray,Neonatal,Cat,Unknown,0 years,Domestic Shorthair,White
+A909243,,0024-07-11 18:00:00+00:00,Jul-24,1301 W Oltorf in Austin (TX),Stray,Neonatal,Cat,Unknown,0 years,Domestic Shorthair,White
+A909308,,0024-07-12 17:02:00+00:00,Jul-24,Woodward St And Willowrun Dr in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair,Orange Tabby
+A909309,,0024-07-12 17:02:00+00:00,Jul-24,Woodward St And Willowrun Dr in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair,Orange Tabby
+A909310,,0024-07-12 17:02:00+00:00,Jul-24,Woodward St And Willowrun Dr in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair,Orange Tabby
+A909311,,0024-07-12 17:02:00+00:00,Jul-24,Woodward St And Willowrun Dr in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair,Orange Tabby
+A909312,,0024-07-12 17:02:00+00:00,Jul-24,Woodward St And Willowrun Dr in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair,Orange Tabby
+A909640,58 Grams,0024-07-18 14:56:00+00:00,Jul-24,Austin (TX),Owner Surrender,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,White/Orange
+A909641,65 Grams,0024-07-18 14:56:00+00:00,Jul-24,Austin (TX),Owner Surrender,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,White/Orange
+A909642,65 Grams,0024-07-18 14:56:00+00:00,Jul-24,Austin (TX),Owner Surrender,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,White/Orange
+A909643,63 Grams,0024-07-18 14:56:00+00:00,Jul-24,Austin (TX),Owner Surrender,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Orange/White
+A909644,75 Grams,0024-07-18 14:56:00+00:00,Jul-24,Austin (TX),Owner Surrender,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Orange/White
+A912495,,0024-08-28 11:22:00+00:00,Aug-24,13606 Lazyridge Dr in Travis (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby
+A913036,*Meadow,0024-09-09 15:17:00+00:00,Sep-24,7201 Levander Loop in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,White/Orange
+A913038,*Spring,0024-09-09 15:17:00+00:00,Sep-24,7201 Levander Loop in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Orange Tabby/White
+A913158,*Tiny,0024-09-11 12:09:00+00:00,Sep-24,111 Woodward Street in Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Brown Tabby/White
+A913159,*Bob,0024-09-11 12:09:00+00:00,Sep-24,111 Woodward Street in Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Brown Tabby/White
+A913160,*Kiki,0024-09-11 12:09:00+00:00,Sep-24,111 Woodward Street in Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Torbie
+A913161,*Kasper,0024-09-11 12:09:00+00:00,Sep-24,111 Woodward Street in Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Blue Tabby
+A914424,,0024-09-30 11:20:00+00:00,Sep-24,Travis (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby
+A914425,,0024-09-30 11:20:00+00:00,Sep-24,Travis (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Brown Tabby
+A914426,,0024-09-30 11:20:00+00:00,Sep-24,Travis (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby/White
+A914427,,0024-09-30 11:20:00+00:00,Sep-24,Travis (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Black
+A914428,,0024-09-30 11:20:00+00:00,Sep-24,Travis (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Blue/White
+A914429,,0024-09-30 11:20:00+00:00,Sep-24,Travis (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Black/White
+A925554,*Missy Elliott,0025-02-26 09:10:00+00:00,Feb-25,Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby
+A925555,* Lil‚Äô Kim,0025-02-26 09:10:00+00:00,Feb-25,Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby
+A925556,*Cardi B,0025-02-26 09:10:00+00:00,Feb-25,Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby
+A925557,*Slim Shady,0025-02-26 09:10:00+00:00,Feb-25,Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Brown Tabby
+A925558,*Doechii,0025-02-26 09:10:00+00:00,Feb-25,Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Black
+A926329,,0025-03-09 18:01:00+00:00,Mar-25,Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Black/White
+A926330,,0025-03-09 18:01:00+00:00,Mar-25,Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Brown Tabby/White
+A926331,,0025-03-09 18:01:00+00:00,Mar-25,Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby/White
+A926332,,0025-03-09 18:01:00+00:00,Mar-25,Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby/White
+A926333,,0025-03-09 18:01:00+00:00,Mar-25,Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Brown Tabby/White
+A926334,,0025-03-09 18:01:00+00:00,Mar-25,Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Brown Tabby/White
+A926466,,0025-03-11 12:55:00+00:00,Mar-25,Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Blue Tabby/White
+A926468,,0025-03-11 12:55:00+00:00,Mar-25,Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Blue Tabby/White
+A926469,Oreo,0025-03-11 12:55:00+00:00,Mar-25,19606 Mallard Pond Rd in Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby/White
+A927105,,0025-03-20 11:02:00+00:00,Mar-25,14935 Swiss Drive in Travis (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,White/Black
+A927106,,0025-03-20 11:02:00+00:00,Mar-25,14935 Swiss Drive in Travis (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,White/Black
+A927107,,0025-03-20 11:02:00+00:00,Mar-25,14935 Swiss Drive in Travis (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,White/Black
+A927108,,0025-03-20 11:02:00+00:00,Mar-25,14935 Swiss Drive in Travis (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,White/Black
+A927767,,0025-04-02 10:15:00+00:00,Apr-25,4434 Frontier Trl in Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Cream/White
+A927768,,0025-04-02 10:15:00+00:00,Apr-25,4434 Frontier Trl in Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Cream/White
+A927769,,0025-04-02 10:15:00+00:00,Apr-25,4434 Frontier Trl in Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Cream/White
+A927770,,0025-04-02 10:15:00+00:00,Apr-25,4434 Frontier Trl in Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair,Cream/White
+A927953,,0025-04-04 12:30:00+00:00,Apr-25,1606 Springer Lane in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Calico
+A927954,,0025-04-04 12:30:00+00:00,Apr-25,1606 Springer Lane in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Black Smoke/White
+A927958,,0025-04-04 12:30:00+00:00,Apr-25,1606 Springer Lane in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Orange
+A927959,,0025-04-04 12:30:00+00:00,Apr-25,1606 Springer Lane in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Black
+A927960,,0025-04-04 12:30:00+00:00,Apr-25,1606 Springer Lane in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Black/White
+A928866,,0025-04-20 12:05:00+00:00,Apr-25,Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby
+A929085,,0025-04-24 15:33:00+00:00,Apr-25,2809 Locke Ln in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Black
+A929086,,0025-04-24 15:33:00+00:00,Apr-25,2809 Locke Ln in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby
+A929087,,0025-04-24 15:33:00+00:00,Apr-25,2809 Locke Ln in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Brown Tabby
+A929088,,0025-04-24 15:33:00+00:00,Apr-25,2809 Locke Ln in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair,Gray
+A929089,,0025-04-24 15:33:00+00:00,Apr-25,2809 Locke Ln in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair,Gray
+A664284,,0013-10-01 15:20:00+00:00,Oct-13,1001 Bouldin Ave in Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black/White
+A664285,,0013-10-01 15:20:00+00:00,Oct-13,1001 Bouldin Ave in Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black
+A665291,,0013-10-16 07:59:00+00:00,Oct-13,North Ec Research Blvd in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair Mix,Gray
+A665292,,0013-10-16 07:59:00+00:00,Oct-13,North Ec Research Blvd in Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair Mix,Cream
+A673522,,0014-02-13 11:07:00+00:00,Feb-14,Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black
+A673523,,0014-02-13 11:07:00+00:00,Feb-14,Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Brown Tabby
+A673524,,0014-02-13 11:07:00+00:00,Feb-14,Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Brown Tabby
+A673493,,0014-02-25 09:24:00+00:00,Feb-14,Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair Mix,Tortie/White
+A673494,,0014-02-25 09:24:00+00:00,Feb-14,Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair Mix,Tortie/White
+A675465,,0014-03-28 03:08:00+00:00,Mar-14,8201 Riverstone Dr in Austin (TX),Owner Surrender,Nursing,Cat,Intact Female,0 years,Domestic Shorthair Mix,White
+A675466,,0014-03-28 03:08:00+00:00,Mar-14,8201 Riverstone Dr in Austin (TX),Owner Surrender,Nursing,Cat,Intact Male,0 years,Domestic Shorthair Mix,White
+A676305,,0014-04-07 18:29:00+00:00,Apr-14,1142 Gunter in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,White/Black
+A676306,,0014-04-07 18:29:00+00:00,Apr-14,1142 Gunter in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,White/Blue
+A677462,,0014-04-25 12:57:00+00:00,Apr-14,1430 Frontier Valley in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Blue
+A677463,,0014-04-25 12:57:00+00:00,Apr-14,1430 Frontier Valley in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Blue
+A677464,,0014-04-25 12:57:00+00:00,Apr-14,1430 Frontier Valley in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Blue
+A677465,,0014-04-25 12:57:00+00:00,Apr-14,1430 Frontier Valley in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Brown Tabby
+A677783,,0014-04-29 12:20:00+00:00,Apr-14,Wisteria Valley in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair Mix,Black
+A677846,,0014-04-29 12:20:00+00:00,Apr-14,Wisteria Valley in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair Mix,Black
+A678209,,0014-05-05 16:37:00+00:00,May-14,Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black
+A678210,*Reeses,0014-05-05 16:37:00+00:00,May-14,Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair Mix,Tortie
+A678211,Em,0014-05-05 16:37:00+00:00,May-14,Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair Mix,Brown Tabby
+A678212,*Midnight,0014-05-05 16:37:00+00:00,May-14,Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black
+A678213,Taco Cat,0014-05-05 16:37:00+00:00,May-14,Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair Mix,Black/White
+A678214,*Ninja,0014-05-05 16:37:00+00:00,May-14,Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black
+A678667,*Tidbit,0014-05-11 14:46:00+00:00,May-14,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Blue
+A678670,Chiquita,0014-05-11 14:46:00+00:00,May-14,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Brown Tabby
+A678819,,0014-05-13 11:05:00+00:00,May-14,14811 Bescott in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Brown Tabby
+A678820,,0014-05-13 11:05:00+00:00,May-14,14811 Bescott in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Blue Tabby
+A678821,,0014-05-13 11:05:00+00:00,May-14,14811 Bescott in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Black
+A678822,,0014-05-13 11:05:00+00:00,May-14,14811 Bescott in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Cream Tabby
+A683909,,0014-07-14 12:00:00+00:00,Jul-14,14811 Chicadee in Pflugerville (TX),Public Assist,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Orange Tabby
+A683910,,0014-07-14 12:00:00+00:00,Jul-14,14811 Chicadee in Pflugerville (TX),Public Assist,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Orange Tabby
+A683911,,0014-07-14 12:00:00+00:00,Jul-14,14811 Chicadee in Pflugerville (TX),Public Assist,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Brown Tabby
+A683912,,0014-07-14 12:00:00+00:00,Jul-14,14811 Chicadee in Pflugerville (TX),Public Assist,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,White
+A683710,,0014-07-14 12:44:00+00:00,Jul-14,Austin (TX),Public Assist,Nursing,Cat,Intact Male,0 years,Domestic Shorthair Mix,Brown Tabby
+A686909,,0014-08-28 18:13:00+00:00,Aug-14,Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair Mix,White/Brown Tabby
+A686910,,0014-08-28 18:13:00+00:00,Aug-14,Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair Mix,Blue Tabby/White
+A686911,,0014-08-28 18:13:00+00:00,Aug-14,Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair Mix,Blue
+A687767,Zoey,0014-09-09 16:51:00+00:00,Sep-14,3414 Crownover St in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Calico
+A687768,*Posey,0014-09-09 16:51:00+00:00,Sep-14,3414 Crownover St in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Calico
+A687769,*Rose,0014-09-09 16:51:00+00:00,Sep-14,3414 Crownover St in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Brown Tabby
+A687770,*Lily,0014-09-09 16:51:00+00:00,Sep-14,3414 Crownover St in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Torbie
+A687771,Mason,0014-09-09 16:51:00+00:00,Sep-14,3414 Crownover St in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Brown Tabby
+A699014,,0015-03-21 11:02:00+00:00,Mar-15,10111 S. 183 in Travis (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair Mix,Brown Tabby
+A700045,,0015-04-06 11:41:00+00:00,Apr-15,Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair Mix,Black
+A700046,,0015-04-06 11:41:00+00:00,Apr-15,Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair Mix,Black
+A700051,,0015-04-06 11:41:00+00:00,Apr-15,Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair Mix,Brown Tabby
+A700069,,0015-04-06 14:28:00+00:00,Apr-15,4600 Rocking Chair Rd in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair Mix,Black
+A700060,,0015-04-06 14:28:00+00:00,Apr-15,4600 Rocking Chair Rd in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair Mix,Black
+A700211,Aries,0015-04-09 14:34:00+00:00,Apr-15,8800 N Ih35 in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Brown Tabby
+A700212,*Kevin,0015-04-09 14:34:00+00:00,Apr-15,8800 N Ih35 in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Brown Tabby/White
+A700220,*Dex,0015-04-09 14:34:00+00:00,Apr-15,8800 N Ih35 in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Brown Tabby/White
+A701723,,0015-05-03 17:26:00+00:00,May-15,7201 Levander Loop in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Tortie
+A702326,Penelope,0015-05-12 12:37:00+00:00,May-15,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,0 years,Domestic Shorthair Mix,Black
+A703214,,0015-05-21 16:53:00+00:00,May-15,1601 E Slaughter Ln in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Brown Tabby
+A703551,,0015-05-26 13:16:00+00:00,May-15,2705 Wheless Ln in Austin (TX),Stray,Pregnant,Cat,Intact Male,0 years,Domestic Shorthair Mix,Brown Tabby
+A706929,,0015-07-05 13:25:00+00:00,Jul-15,12707 Pondwoods in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Tortie
+A707486,*Lilly,0015-07-13 15:03:00+00:00,Jul-15,North Ih-35 And Rundberg in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Tortie
+A707487,*Rabbit,0015-07-13 15:03:00+00:00,Jul-15,North Ih-35 And Rundberg in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Tortie
+A707488,,0015-07-13 15:03:00+00:00,Jul-15,North Ih-35 And Rundberg in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Tortie
+A707489,*Marigold,0015-07-13 15:03:00+00:00,Jul-15,North Ih-35 And Rundberg in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Tortie
+A707677,,0015-07-13 15:03:00+00:00,Jul-15,North Ih-35 And Rundberg in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Black
+A707899,*Luigi,0015-07-13 15:03:00+00:00,Jul-15,North Ih-35 And Rundberg in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black
+A707900,Mookie,0015-07-13 15:03:00+00:00,Jul-15,North Ih-35 And Rundberg in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black
+A707901,*Binx,0015-07-13 15:03:00+00:00,Jul-15,North Ih-35 And Rundberg in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black
+A708011,*Rye,0015-07-21 13:19:00+00:00,Jul-15,6201 Sneed Cv in Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Brown Tabby
+A708012,*Cornbread,0015-07-21 13:19:00+00:00,Jul-15,6201 Sneed Cv in Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Brown Tabby
+A708013,*Sourdough,0015-07-21 13:19:00+00:00,Jul-15,6201 Sneed Cv in Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Brown Tabby/White
+A708014,*Baguette,0015-07-21 13:19:00+00:00,Jul-15,6201 Sneed Cv in Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black
+A708498,,0015-07-28 13:55:00+00:00,Jul-15,824 Fairfield Dr in Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair Mix,Black
+A708499,*Junie,0015-07-28 13:55:00+00:00,Jul-15,824 Fairfield Dr in Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair Mix,White/Brown Tabby
+A710046,,0015-08-16 14:07:00+00:00,Aug-15,1215 W Slaughter Ln in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Pink
+A710047,,0015-08-16 14:07:00+00:00,Aug-15,1215 W Slaughter Ln in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Pink
+A710468,*Nugget,0015-08-23 13:45:00+00:00,Aug-15,2505 Bridle Path in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black
+A710565,*Ora Lee,0015-08-24 17:22:00+00:00,Aug-15,11408 Tickford in Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair Mix,Black/White
+A710566,*Ollily,0015-08-24 17:22:00+00:00,Aug-15,11408 Tickford in Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair Mix,Black/White
+A710567,*Otis,0015-08-24 17:22:00+00:00,Aug-15,11408 Tickford in Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black/White
+A710568,*Orson,0015-08-24 17:22:00+00:00,Aug-15,11408 Tickford in Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair Mix,Black/White
+A710575,,0015-08-24 18:37:00+00:00,Aug-15,6600 Elm Creek Dr in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair Mix,Orange Tabby/White
+A710616,*Lori,0015-08-25 11:52:00+00:00,Aug-15,6700 Evelyn Rd in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Black/White
+A710617,*Lauralie,0015-08-25 11:52:00+00:00,Aug-15,6700 Evelyn Rd in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Black/White
+A710619,*Laurn,0015-08-25 11:52:00+00:00,Aug-15,6700 Evelyn Rd in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Black
+A710620,*Lona,0015-08-25 11:52:00+00:00,Aug-15,6700 Evelyn Rd in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,White
+A712332,*Monkey,0015-09-19 12:20:00+00:00,Sep-15,Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Black/White
+A713119,,0015-09-20 18:10:00+00:00,Sep-15,7604 Lazy River in Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair Mix,Brown/Black Tabby
+A712978,,0015-09-22 12:28:00+00:00,Sep-15,7604 Lazy River Cv in Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black/Silver Tabby
+A712979,,0015-09-22 12:28:00+00:00,Sep-15,7604 Lazy River Cv in Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black
+A712980,,0015-09-22 12:28:00+00:00,Sep-15,7604 Lazy River Cv in Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black
+A712981,,0015-09-22 12:28:00+00:00,Sep-15,7604 Lazy River Cv in Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black
+A712982,,0015-09-22 12:28:00+00:00,Sep-15,7604 Lazy River Cv in Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black
+A720390,*Starla,0016-02-08 11:16:00+00:00,Feb-16,Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Brown Tabby/White
+A720395,*Connie,0016-02-08 11:16:00+00:00,Feb-16,Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Brown Tabby/White
+A720396,*Hunter,0016-02-08 11:16:00+00:00,Feb-16,Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Brown Tabby/White
+A720397,,0016-02-08 11:16:00+00:00,Feb-16,Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Brown Tabby
+A720398,Gomez,0016-02-08 11:16:00+00:00,Feb-16,Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black
+A723347,,0016-03-30 13:17:00+00:00,Mar-16,10409 Crescendo Ln in Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair Mix,Blue Tabby
+A723348,,0016-03-30 13:17:00+00:00,Mar-16,10409 Crescendo Ln in Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair Mix,Blue Tabby
+A723546,*Teagan,0016-04-03 00:47:00+00:00,Apr-16,6108 Calmar Cove Unit B in Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair Mix,Blue/Tortie
+A723547,*Theophilus,0016-04-03 00:47:00+00:00,Apr-16,6108 Calmar Cove Unit B in Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair Mix,Blue
+A723548,*Teodora,0016-04-03 00:47:00+00:00,Apr-16,6108 Calmar Cove Unit B in Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair Mix,Blue
+A723549,*Tegan,0016-04-03 00:47:00+00:00,Apr-16,6108 Calmar Cove Unit B in Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair Mix,Black
+A723550,*Luna,0016-04-03 00:47:00+00:00,Apr-16,6108 Calmar Cove Unit B in Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair Mix,Black
+A723551,*Tiago,0016-04-03 00:47:00+00:00,Apr-16,6108 Calmar Cove Unit B in Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair Mix,Orange Tabby
+A723590,,0016-04-03 11:23:00+00:00,Apr-16,1302 Singleton Ave in Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair Mix,Cream Tabby
+A723591,,0016-04-03 11:23:00+00:00,Apr-16,1302 Singleton Ave in Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair Mix,Orange Tabby
+A723592,,0016-04-03 11:23:00+00:00,Apr-16,1302 Singleton Ave in Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair Mix,Flame Point
+A723593,,0016-04-03 11:23:00+00:00,Apr-16,1302 Singleton Ave in Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair Mix,Tortie/Blue
+A724028,,0016-04-10 18:48:00+00:00,Apr-16,18400 Lake Oaks in Jonestown (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Black Tabby/White
+A724029,,0016-04-10 18:48:00+00:00,Apr-16,18400 Lake Oaks in Jonestown (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Black/White
+A724030,,0016-04-10 18:48:00+00:00,Apr-16,18400 Lake Oaks in Jonestown (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Cream Tabby
+A724062,,0016-04-11 12:01:00+00:00,Apr-16,Born In Shelter in Austin (TX),Owner Surrender,Nursing,Cat,Intact Female,0 years,Domestic Shorthair Mix,Tortie
+A725660,,0016-05-01 14:02:00+00:00,May-16,902 Philco Dr in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair Mix,Black/White
+A725662,,0016-05-01 14:02:00+00:00,May-16,902 Philco Dr in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair Mix,Calico
+A725683,,0016-05-01 16:46:00+00:00,May-16,10805 Topperwein Dr in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair Mix,Cream Tabby
+A725684,,0016-05-01 16:46:00+00:00,May-16,10805 Topperwein Dr in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair Mix,Black Tabby
+A730075,,0016-06-28 11:02:00+00:00,Jun-16,6004 Hidden View Place in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Orange Tabby
+A730076,,0016-06-28 11:02:00+00:00,Jun-16,6004 Hidden View Place in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Calico
+A730077,,0016-06-28 11:02:00+00:00,Jun-16,6004 Hidden View Place in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Brown Tabby
+A730078,,0016-06-28 11:02:00+00:00,Jun-16,6004 Hidden View Place in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Brown Tabby
+A730079,,0016-06-28 11:02:00+00:00,Jun-16,6004 Hidden View Place in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Black
+A730080,,0016-06-28 11:02:00+00:00,Jun-16,6004 Hidden View Place in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Brown Tabby/White
+A731373,,0016-07-21 11:24:00+00:00,Jul-16,6528 Circulo De Amistad in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Calico
+A733500,,0016-08-22 16:53:00+00:00,Aug-16,Springdale Rd & Alf Ave in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Orange Tabby/White
+A734566,,0016-09-08 17:34:00+00:00,Sep-16,Born In Shelter in Austin (TX),Public Assist,Nursing,Cat,Unknown,0 years,Domestic Shorthair Mix,Black/White
+A735725,,0016-09-26 10:33:00+00:00,Sep-16,Born In Shelter in Austin (TX),Public Assist,Nursing,Cat,Unknown,0 years,Domestic Shorthair Mix,Brown Tabby
+A736114,,0016-10-04 12:49:00+00:00,Oct-16,905 W Howard Ln in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Orange Tabby
+A737397,Jellybean,0016-10-27 10:18:00+00:00,Oct-16,7Th St And Pleasant Valley Rd in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,White/Orange
+A737519,,0016-10-30 14:51:00+00:00,Oct-16,7201 Levander Loop in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Black
+A737520,,0016-10-30 14:51:00+00:00,Oct-16,7201 Levander Loop in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Orange Tabby/White
+A737521,,0016-10-30 14:51:00+00:00,Oct-16,7201 Levander Loop in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Orange
+A737522,,0016-10-30 14:51:00+00:00,Oct-16,7201 Levander Loop in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Calico
+A738665,*Honorina,0016-11-19 17:00:00+00:00,Nov-16,7201 Levander Loop in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Torbie/White
+A738649,*Harrison,0016-11-19 17:00:00+00:00,Nov-16,7201 Levander Loop in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black/White
+A738650,*Henry,0016-11-19 17:00:00+00:00,Nov-16,7201 Levander Loop in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Brown Tabby
+A738651,*Hilliard,0016-11-19 17:00:00+00:00,Nov-16,7201 Levander Loop in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black/White
+A738652,*Hylo,0016-11-19 17:00:00+00:00,Nov-16,7201 Levander Loop in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Brown Tabby
+A738653,*Hailee,0016-11-19 17:00:00+00:00,Nov-16,7201 Levander Loop in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Brown Tabby/White
+A746837,,0017-04-09 11:11:00+00:00,Apr-17,3401 Red River St in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Brown Tabby
+A746859,,0017-04-09 11:11:00+00:00,Apr-17,3401 Red River St in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Brown Tabby
+A746860,,0017-04-09 11:11:00+00:00,Apr-17,3401 Red River St in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Brown Tabby
+A746861,,0017-04-09 11:11:00+00:00,Apr-17,3401 Red River St in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black
+A746856,,0017-04-09 15:06:00+00:00,Apr-17,1406 Sahara Ave in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Black/White
+A746857,*Gabby,0017-04-09 15:06:00+00:00,Apr-17,1406 Sahara Ave in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Black/White
+A748762,*Olive,0017-05-06 15:11:00+00:00,May-17,1834 Ferguson in Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair Mix,Torbie
+A748769,*Pancakes,0017-05-06 15:11:00+00:00,May-17,1834 Ferguson in Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair Mix,Black
+A749310,*Jade,0017-05-06 15:11:00+00:00,May-17,1834 Ferguson in Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair Mix,Black/White
+A748869,*Bibibap,0017-05-08 11:35:00+00:00,May-17,913 Freewater Ln in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Brown Tabby
+A748870,*Chalbap,0017-05-08 11:35:00+00:00,May-17,913 Freewater Ln in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Blue/White
+A749253,Orange,0017-05-12 15:50:00+00:00,May-17,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Orange Tabby
+A749598,*Dougal,0017-05-14 14:19:00+00:00,May-17,1834 Ferguson in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,White/Blue
+A749599,*Fergus,0017-05-14 14:19:00+00:00,May-17,1834 Ferguson in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,White/Blue
+A749600,Kitty,0017-05-14 14:19:00+00:00,May-17,1834 Ferguson in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Blue
+A749601,,0017-05-14 14:19:00+00:00,May-17,1834 Ferguson in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Seal Point
+A749602,,0017-05-14 14:19:00+00:00,May-17,1834 Ferguson in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Seal Point
+A749603,,0017-05-14 14:19:00+00:00,May-17,1834 Ferguson in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Seal Point
+A749508,,0017-05-15 19:09:00+00:00,May-17,16003 Pepper Rock Cove in Austin (TX),Owner Surrender,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Blue
+A749509,,0017-05-15 19:09:00+00:00,May-17,16003 Pepper Rock Cove in Austin (TX),Owner Surrender,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Blue
+A749510,,0017-05-15 19:09:00+00:00,May-17,16003 Pepper Rock Cove in Austin (TX),Owner Surrender,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Black
+A749511,,0017-05-15 19:09:00+00:00,May-17,16003 Pepper Rock Cove in Austin (TX),Owner Surrender,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Black
+A749512,,0017-05-15 19:09:00+00:00,May-17,16003 Pepper Rock Cove in Austin (TX),Owner Surrender,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Black
+A750150,,0017-05-23 15:49:00+00:00,May-17,1834 Ferguson in Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Brown Tabby/White
+A750151,,0017-05-23 15:49:00+00:00,May-17,1834 Ferguson in Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Brown Tabby
+A750276,,0017-05-25 10:37:00+00:00,May-17,1834 Ferguson in Austin (TX),Owner Surrender,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Brown Tabby/White
+A750324,,0017-05-25 16:58:00+00:00,May-17,1607 Future Dr in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Blue
+A750333,,0017-05-25 18:13:00+00:00,May-17,7020 Grand Canyon in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Brown Tabby
+A750334,,0017-05-25 18:13:00+00:00,May-17,7020 Grand Canyon in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Brown Tabby
+A750335,,0017-05-25 18:13:00+00:00,May-17,7020 Grand Canyon in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Blue Tabby
+A750336,,0017-05-25 18:13:00+00:00,May-17,7020 Grand Canyon in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Blue Tabby
+A750545,*Diamond,0017-05-28 14:33:00+00:00,May-17,7107 Gunsmoke Ct in Travis (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,White/Brown Tabby
+A750546,*Sapphire,0017-05-28 14:33:00+00:00,May-17,7107 Gunsmoke Ct in Travis (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Brown Tabby/White
+A751357,,0017-06-07 10:52:00+00:00,Jun-17,1000 San Marcos St in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Brown Tabby
+A751394,,0017-06-07 16:30:00+00:00,Jun-17,802 Lawmont Dr in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Blue Tabby
+A751396,,0017-06-07 16:30:00+00:00,Jun-17,802 Lawmont Dr in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Blue/White
+A751397,,0017-06-07 16:30:00+00:00,Jun-17,802 Lawmont Dr in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Blue/White
+A751398,,0017-06-07 16:30:00+00:00,Jun-17,802 Lawmont Dr in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Blue Tabby
+A751399,Paws,0017-06-07 16:30:00+00:00,Jun-17,802 Lawmont Dr in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Blue Tabby
+A752182,,0017-06-19 14:04:00+00:00,Jun-17,13811 Lampting Dr in Travis (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black
+A752183,,0017-06-19 14:04:00+00:00,Jun-17,13811 Lampting Dr in Travis (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Tortie
+A752184,,0017-06-19 14:04:00+00:00,Jun-17,13811 Lampting Dr in Travis (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Tortie
+A752185,,0017-06-19 14:04:00+00:00,Jun-17,13811 Lampting Dr in Travis (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Tortie
+A752323,,0017-06-20 11:35:00+00:00,Jun-17,9601 Middle Fiskville in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Orange Tabby
+A752324,,0017-06-20 11:35:00+00:00,Jun-17,9601 Middle Fiskville in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Orange Tabby
+A752325,,0017-06-20 11:35:00+00:00,Jun-17,9601 Middle Fiskville in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Blue
+A752326,,0017-06-20 11:35:00+00:00,Jun-17,9601 Middle Fiskville in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Cream Tabby
+A757587,,0017-09-02 18:19:00+00:00,Sep-17,5208 Diwa Circle in Del Valle (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Brown Tabby
+A757588,,0017-09-02 18:19:00+00:00,Sep-17,5208 Diwa Circle in Del Valle (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Brown Tabby/White
+A757589,,0017-09-02 18:19:00+00:00,Sep-17,5208 Diwa Circle in Del Valle (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Calico
+A764220,,0017-12-25 16:18:00+00:00,Dec-17,13313 Indian Oak Bend in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black
+A764221,,0017-12-25 16:18:00+00:00,Dec-17,13313 Indian Oak Bend in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Black
+A764222,,0017-12-25 16:18:00+00:00,Dec-17,13313 Indian Oak Bend in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black/White
+A768749,*Milo,0018-03-24 15:34:00+00:00,Mar-18,1660 Rutland Drive in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Blue
+A768750,*Nala,0018-03-24 15:34:00+00:00,Mar-18,1660 Rutland Drive in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Blue
+A768751,*Aries,0018-03-24 15:34:00+00:00,Mar-18,1660 Rutland Drive in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Blue
+A768752,*Lil Spirit,0018-03-24 15:34:00+00:00,Mar-18,1660 Rutland Drive in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Blue Tabby
+A768761,*Willow,0018-03-24 15:34:00+00:00,Mar-18,1660 Rutland Drive in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Black
+A769632,,0018-04-07 16:59:00+00:00,Apr-18,1156 W Cesar Chavez in Austin (TX),Public Assist,Nursing,Cat,Unknown,0 years,Domestic Shorthair Mix,Orange Tabby
+A769633,,0018-04-07 16:59:00+00:00,Apr-18,1156 W Cesar Chavez in Austin (TX),Public Assist,Nursing,Cat,Unknown,0 years,Domestic Shorthair Mix,Orange Tabby
+A769634,,0018-04-07 16:59:00+00:00,Apr-18,1156 W Cesar Chavez in Austin (TX),Public Assist,Nursing,Cat,Unknown,0 years,Domestic Shorthair Mix,Orange Tabby
+A769635,,0018-04-07 16:59:00+00:00,Apr-18,1156 W Cesar Chavez in Austin (TX),Public Assist,Nursing,Cat,Intact Female,0 years,Domestic Shorthair Mix,Calico
+A770035,,0018-04-14 14:07:00+00:00,Apr-18,2800 Rusty Dr in Austin (TX),Stray,Injured,Cat,Unknown,0 years,Domestic Shorthair Mix,Brown Tabby
+A770033,,0018-04-14 14:07:00+00:00,Apr-18,2800 Rusty Dr in Austin (TX),Stray,Injured,Cat,Unknown,0 years,Domestic Shorthair Mix,White
+A770307,*Phoenix,0018-04-17 18:59:00+00:00,Apr-18,11115 Seay Street in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black Smoke
+A770308,Mowgli,0018-04-17 18:59:00+00:00,Apr-18,11115 Seay Street in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Brown Tabby
+A770309,*Bisbee,0018-04-17 18:59:00+00:00,Apr-18,11115 Seay Street in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Blue Tabby
+A770311,*Snowflake,0018-04-17 18:59:00+00:00,Apr-18,11115 Seay Street in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Blue
+A770312,*Little Foot,0018-04-17 18:59:00+00:00,Apr-18,11115 Seay Street in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Brown Tabby
+A770313,*Tuscon,0018-04-17 18:59:00+00:00,Apr-18,11115 Seay Street in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black Smoke
+A770601,Frankie,0018-04-22 13:28:00+00:00,Apr-18,900 Thompson Street in Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair Mix,Blue Tabby
+A772621,,0018-05-21 17:27:00+00:00,May-18,8500 Croydon Loop in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Black/White
+A772784,Onyx,0018-05-23 12:19:00+00:00,May-18,Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Brown Tabby
+A772785,,0018-05-23 12:19:00+00:00,May-18,Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Brown Tabby
+A772786,,0018-05-23 12:19:00+00:00,May-18,Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Brown Tabby
+A772991,,0018-05-26 10:33:00+00:00,May-18,4434 Frontier Trail in Austin (TX),Public Assist,Nursing,Cat,Intact Female,0 years,Domestic Shorthair Mix,Brown Tabby
+A775401,*Crookshanks,0018-06-29 18:43:00+00:00,Jun-18,9800 Metric Boulevard in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Orange Tabby
+A775402,*Luna,0018-06-29 18:43:00+00:00,Jun-18,9800 Metric Boulevard in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Tortie
+A775676,*August,0018-07-03 16:10:00+00:00,Jul-18,Travis (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Brown Tabby
+A775677,*Hope,0018-07-03 16:10:00+00:00,Jul-18,Travis (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Brown Tabby
+A775678,*Constance,0018-07-03 16:10:00+00:00,Jul-18,Travis (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Brown Tabby
+A776442,,0018-07-13 16:33:00+00:00,Jul-18,3304 Hycreek in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black
+A776444,,0018-07-13 16:33:00+00:00,Jul-18,3304 Hycreek in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black
+A776445,,0018-07-13 16:33:00+00:00,Jul-18,3304 Hycreek in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Tortie
+A776692,,0018-07-17 15:59:00+00:00,Jul-18,6008 Sandshoff Drive in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,White
+A776693,,0018-07-17 15:59:00+00:00,Jul-18,6008 Sandshoff Drive in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,White
+A776695,,0018-07-17 15:59:00+00:00,Jul-18,6008 Sandshoff Drive in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Brown Tabby
+A776697,,0018-07-17 15:59:00+00:00,Jul-18,6008 Sandshoff Drive in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Brown Tabby
+A776698,,0018-07-17 15:59:00+00:00,Jul-18,6008 Sandshoff Drive in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Brown Tabby
+A779636,*Bright Eyes,0018-09-04 07:47:00+00:00,Sep-18,110 Kimble in Austin (TX),Stray,Sick,Cat,Intact Female,0 years,Domestic Shorthair Mix,Black
+A780231,,0018-09-09 15:22:00+00:00,Sep-18,9901 Oriole Drive in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Black
+A780193,,0018-09-11 15:22:00+00:00,Sep-18,9901 Oriole Drive in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Brown Tabby
+A780194,,0018-09-11 15:22:00+00:00,Sep-18,9901 Oriole Drive in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Blue/White
+A780195,,0018-09-11 15:22:00+00:00,Sep-18,9901 Oriole Drive in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Blue Tabby/White
+A780196,,0018-09-11 15:22:00+00:00,Sep-18,9901 Oriole Drive in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Blue Tabby
+A780197,,0018-09-11 15:22:00+00:00,Sep-18,9901 Oriole Drive in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,White/Blue
+A780258,,0018-09-12 09:17:00+00:00,Sep-18,6214 Palm Cir in Austin (TX),Stray,Sick,Cat,Intact Male,0 years,Domestic Shorthair Mix,White/Black
+A789432,,0019-02-21 14:46:00+00:00,Feb-19,Marigold in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair Mix,Black/White
+A789433,,0019-02-21 14:46:00+00:00,Feb-19,Marigold in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair Mix,Black/White
+A789434,,0019-02-21 14:46:00+00:00,Feb-19,Marigold in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair Mix,Black/White
+A789435,,0019-02-21 14:46:00+00:00,Feb-19,Marigold in Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black/White
+A789436,,0019-02-21 14:46:00+00:00,Feb-19,Marigold in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair Mix,Black/White
+A789426,,0019-02-21 14:46:00+00:00,Feb-19,Marigold in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair Mix,Black/White
+A790797,,0019-03-16 16:01:00+00:00,Mar-19,Pflugerville (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black/White
+A790798,Flerken,0019-03-16 16:01:00+00:00,Mar-19,Pflugerville (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black/White
+A790799,,0019-03-16 16:01:00+00:00,Mar-19,Pflugerville (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black/White
+A790800,,0019-03-16 16:01:00+00:00,Mar-19,Pflugerville (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black/White
+A790801,,0019-03-16 16:01:00+00:00,Mar-19,Pflugerville (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair Mix,Black/White
+A790802,,0019-03-16 16:01:00+00:00,Mar-19,Pflugerville (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair Mix,Blue/White
+A791021,,0019-03-20 11:09:00+00:00,Mar-19,3705 Bluestein Drive in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Brown Tabby
+A791022,,0019-03-20 11:09:00+00:00,Mar-19,3705 Bluestein Drive in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Brown Tabby
+A791023,,0019-03-20 11:09:00+00:00,Mar-19,3705 Bluestein Drive in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Brown Tabby
+A791024,,0019-03-20 11:09:00+00:00,Mar-19,3705 Bluestein Drive in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Blue Tabby
+A791456,,0019-03-23 13:04:00+00:00,Mar-19,833 Fairfield Drive in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black/White
+A791457,*Inky,0019-03-23 13:04:00+00:00,Mar-19,833 Fairfield Drive in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black/White
+A791458,*Pinky,0019-03-23 13:04:00+00:00,Mar-19,833 Fairfield Drive in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Black/White
+A791460,*Biggie,0019-03-23 13:04:00+00:00,Mar-19,833 Fairfield Drive in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Black/White
+A791461,,0019-03-23 13:04:00+00:00,Mar-19,833 Fairfield Drive in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Black/White
+A791929,,0019-03-26 11:26:00+00:00,Mar-19,West Slaughter Lane And Manchaca Road in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Blue Tabby/White
+A791930,,0019-03-26 11:26:00+00:00,Mar-19,West Slaughter Lane And Manchaca Road in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Blue Tabby/White
+A792096,,0019-04-05 18:11:00+00:00,Apr-19,7601 Daffan in Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair Mix,Calico
+A792473,*Lou Lou,0019-04-11 10:55:00+00:00,Apr-19,Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair Mix,Brown Tabby/White
+A792474,*Jasper,0019-04-11 10:55:00+00:00,Apr-19,Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair Mix,Brown Tabby/White
+A792476,,0019-04-11 10:55:00+00:00,Apr-19,Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair Mix,White/Blue
+A792477,*Peanut,0019-04-11 10:55:00+00:00,Apr-19,Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair Mix,Blue/White
+A792774,*George,0019-04-15 12:44:00+00:00,Apr-19,9805 Halifax Drive in Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair Mix,Orange Tabby
+A792775,*Percy,0019-04-15 12:44:00+00:00,Apr-19,9805 Halifax Drive in Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair Mix,Orange Tabby/White
+A792776,*Ginny,0019-04-15 12:44:00+00:00,Apr-19,9805 Halifax Drive in Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair Mix,Orange Tabby
+A792777,*Ron,0019-04-15 12:44:00+00:00,Apr-19,9805 Halifax Drive in Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair Mix,Orange Tabby/White
+A792779,,0019-04-15 12:44:00+00:00,Apr-19,9805 Halifax Drive in Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair Mix,Cream Tabby
+A793138,,0019-04-20 11:04:00+00:00,Apr-19,8300 South Ih 35 in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,White/Gray
+A793782,Milo,0019-04-29 18:56:00+00:00,Apr-19,Fiesta Street And Govalle Avenue in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Orange Tabby
+A794050,*Juju Bean,0019-05-03 12:46:00+00:00,May-19,4102 Reynosa Drive in Austin (TX),Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair Mix,White/Black
+A794048,Pulgas,0019-05-03 12:46:00+00:00,May-19,4102 Reynosa Drive in Austin (TX),Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair Mix,White/Black
+A794075,,0019-05-03 15:59:00+00:00,May-19,601 Camp Craft in Austin (TX),Stray,Normal,Cat,Unknown,0 years,Domestic Shorthair Mix,Black
+A815529,#1,0020-03-18 09:40:00+00:00,Mar-20,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Orange Tabby
+A815530,#2,0020-03-18 09:40:00+00:00,Mar-20,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Orange Tabby
+A815531,#3,0020-03-18 09:40:00+00:00,Mar-20,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Blue Tabby
+A815532,#4,0020-03-18 09:40:00+00:00,Mar-20,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Blue Tabby
+A815533,#5,0020-03-18 09:40:00+00:00,Mar-20,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Brown Tabby
+A822736,,0020-09-08 16:46:00+00:00,Sep-20,Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair Mix,Blue Tabby
+A822737,,0020-09-08 16:46:00+00:00,Sep-20,Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair Mix,Brown Tabby
+A851809,94 Grams,0022-02-18 20:14:00+00:00,Feb-22,Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Black/White
+A851810,112 Grams,0022-02-18 20:14:00+00:00,Feb-22,Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Black/White
+A851811,124 Grams,0022-02-18 20:14:00+00:00,Feb-22,Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black
+A851812,115 Grams,0022-02-18 20:14:00+00:00,Feb-22,Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Black/White
+A855237,A855237,0022-04-15 12:00:00+00:00,Apr-22,1200 Broadmoor Drive in Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Black/White
+A855238,A855238,0022-04-15 12:00:00+00:00,Apr-22,1200 Broadmoor Drive in Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair Mix,White/Orange Tabby
+A855239,A855239,0022-04-15 12:00:00+00:00,Apr-22,1200 Broadmoor Drive in Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Cream Tabby/White
+A855332,A855332,0022-04-15 12:00:00+00:00,Apr-22,1200 Broadmoor Drive in Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black/White
+A855333,A855333,0022-04-15 12:00:00+00:00,Apr-22,1200 Broadmoor Drive in Austin (TX),Stray,Neonatal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Blue Tabby/White
+A855334,A855334,0022-04-15 12:00:00+00:00,Apr-22,1200 Broadmoor Drive in Austin (TX),Stray,Neonatal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Orange Tabby/White
+A862141,A862141,0022-07-22 12:08:00+00:00,Jul-22,13116 Olivers Way in Travis (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Torbie
+A862142,A862142,0022-07-22 12:08:00+00:00,Jul-22,13116 Olivers Way in Travis (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Tortie
+A862143,A862143,0022-07-22 12:08:00+00:00,Jul-22,13116 Olivers Way in Travis (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black
+A862144,A862144,0022-07-22 12:08:00+00:00,Jul-22,13116 Olivers Way in Travis (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Orange Tabby
+A862145,A862145,0022-07-22 12:08:00+00:00,Jul-22,13116 Olivers Way in Travis (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Cream Tabby
+A863129,*Blaze,0022-08-04 18:42:00+00:00,Aug-22,9001 Northgate in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Orange Tabby
+A863130,*Ginger,0022-08-04 18:42:00+00:00,Aug-22,9001 Northgate in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Orange Tabby
+A863131,*Rusty,0022-08-04 18:42:00+00:00,Aug-22,9001 Northgate in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Orange Tabby
+A863132,*Maple,0022-08-04 18:42:00+00:00,Aug-22,9001 Northgate in Austin (TX),Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Orange Tabby
+A880414,64G,0023-05-08 16:55:00+00:00,May-23,8002 Persimmon Trail in Austin (TX),Stray,Normal,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black
+A722593,,0016-03-19 11:39:00+00:00,Mar-16,Austin (TX),Owner Surrender,Normal,Bird,Unknown,0 years,Duck Mix,Yellow
+A722594,,0016-03-19 11:39:00+00:00,Mar-16,Austin (TX),Owner Surrender,Normal,Bird,Unknown,0 years,Duck Mix,Yellow
+A701358,,0015-04-28 13:03:00+00:00,Apr-15,H 29 And Blue Bluff in Travis (TX),Stray,Normal,Dog,Unknown,0 years,English Bulldog Mix,Tan/White
+A701359,,0015-04-28 13:03:00+00:00,Apr-15,H 29 And Blue Bluff in Travis (TX),Stray,Normal,Dog,Unknown,0 years,English Bulldog Mix,Blue/White
+A729909,Khonzu,0016-05-11 12:50:00+00:00,May-16,7101 Ed Bluestein Blvd in Austin (TX),Stray,Normal,Dog,Intact Male,0 years,German Shepherd,Brown/Black
+A693266,Roxie,0014-12-05 13:01:00+00:00,Dec-14,Austin (TX),Owner Surrender,Nursing,Dog,Intact Female,0 years,German Shepherd Mix,Brown/Black
+A782297,*Kinsler,0018-10-13 12:17:00+00:00,Oct-18,Travis (TX),Stray,Nursing,Dog,Intact Female,0 years,German Shepherd Mix,Black
+A782298,*Mookie,0018-10-13 12:17:00+00:00,Oct-18,Travis (TX),Stray,Nursing,Dog,Intact Male,0 years,German Shepherd Mix,Black/Brown
+A782299,*Pearce,0018-10-13 12:17:00+00:00,Oct-18,Travis (TX),Stray,Nursing,Dog,Intact Male,0 years,German Shepherd Mix,Black/White
+A782300,*Benny,0018-10-13 12:17:00+00:00,Oct-18,Travis (TX),Stray,Nursing,Dog,Intact Male,0 years,German Shepherd Mix,Sable
+A782301,*Brock,0018-10-13 12:17:00+00:00,Oct-18,Travis (TX),Stray,Nursing,Dog,Intact Male,0 years,German Shepherd Mix,Brown
+A782302,*Holt,0018-10-13 12:17:00+00:00,Oct-18,Travis (TX),Stray,Nursing,Dog,Intact Male,0 years,German Shepherd Mix,Brown/White
+A809820,*Rhodes,0019-12-02 10:30:00+00:00,Dec-19,11621 Murron Drive in Austin (TX),Stray,Nursing,Dog,Intact Male,0 years,German Shepherd Mix,Black/Brown
+A809821,*Nassus,0019-12-02 10:30:00+00:00,Dec-19,11621 Murron Drive in Austin (TX),Stray,Nursing,Dog,Intact Male,0 years,German Shepherd Mix,Black/Brown
+A809822,*Khufu,0019-12-02 10:30:00+00:00,Dec-19,11621 Murron Drive in Austin (TX),Stray,Nursing,Dog,Intact Male,0 years,German Shepherd Mix,Black/Brown
+A809829,*Artemis,0019-12-02 10:30:00+00:00,Dec-19,11621 Murron Drive in Austin (TX),Stray,Nursing,Dog,Intact Female,0 years,German Shepherd Mix,Black/Brown
+A809830,*Olympia,0019-12-02 10:30:00+00:00,Dec-19,11621 Murron Drive in Austin (TX),Stray,Nursing,Dog,Intact Female,0 years,German Shepherd Mix,Black/Brown
+A809831,*Alexander,0019-12-02 10:30:00+00:00,Dec-19,11621 Murron Drive in Austin (TX),Stray,Nursing,Dog,Intact Male,0 years,German Shepherd Mix,Black/Brown
+A809832,*Babylon,0019-12-02 10:30:00+00:00,Dec-19,11621 Murron Drive in Austin (TX),Stray,Nursing,Dog,Intact Female,0 years,German Shepherd Mix,Black/Brown
+A836501,,0021-06-11 08:21:00+00:00,Jun-21,6405 Lynch Lane in Austin (TX),Stray,Nursing,Dog,Unknown,0 years,German Shepherd Mix,Black/Brown
+A836502,,0021-06-11 08:21:00+00:00,Jun-21,6405 Lynch Lane in Austin (TX),Stray,Nursing,Dog,Unknown,0 years,German Shepherd Mix,Black/Brown
+A836503,,0021-06-11 08:21:00+00:00,Jun-21,6405 Lynch Lane in Austin (TX),Stray,Nursing,Dog,Unknown,0 years,German Shepherd Mix,Black/Brown
+A836504,,0021-06-11 08:21:00+00:00,Jun-21,6405 Lynch Lane in Austin (TX),Stray,Nursing,Dog,Unknown,0 years,German Shepherd Mix,Black/Brown
+A836505,,0021-06-11 08:21:00+00:00,Jun-21,6405 Lynch Lane in Austin (TX),Stray,Nursing,Dog,Unknown,0 years,German Shepherd Mix,Black/Brown
+A836506,,0021-06-11 08:21:00+00:00,Jun-21,6405 Lynch Lane in Austin (TX),Stray,Nursing,Dog,Unknown,0 years,German Shepherd Mix,Black/Brown
+A836507,,0021-06-11 08:21:00+00:00,Jun-21,6405 Lynch Lane in Austin (TX),Stray,Nursing,Dog,Unknown,0 years,German Shepherd Mix,Blue
+A836508,,0021-06-11 08:21:00+00:00,Jun-21,6405 Lynch Lane in Austin (TX),Stray,Nursing,Dog,Unknown,0 years,German Shepherd Mix,Blue
+A836509,,0021-06-11 08:21:00+00:00,Jun-21,6405 Lynch Lane in Austin (TX),Stray,Nursing,Dog,Unknown,0 years,German Shepherd Mix,Blue
+A788866,,0019-02-10 12:47:00+00:00,Feb-19,7710 Blue Goose Road in Manor (TX),Stray,Normal,Dog,Intact Male,0 years,German Shepherd/Catahoula,Black Brindle
+A890471,,0023-10-07 13:12:00+00:00,Oct-23,14410 Plover Place in Travis (TX),Stray,Injured,Dog,Intact Female,0 years,Golden Retriever/Great Pyrenees,Tan
+A890473,,0023-10-07 13:12:00+00:00,Oct-23,14410 Plover Place in Travis (TX),Stray,Injured,Dog,Intact Female,0 years,Golden Retriever/Great Pyrenees,Tan
+A890474,,0023-10-07 13:12:00+00:00,Oct-23,14410 Plover Place in Travis (TX),Stray,Injured,Dog,Intact Female,0 years,Golden Retriever/Great Pyrenees,Tan
+A890475,,0023-10-07 13:12:00+00:00,Oct-23,14410 Plover Place in Travis (TX),Stray,Injured,Dog,Intact Female,0 years,Golden Retriever/Great Pyrenees,Tan
+A890476,,0023-10-07 13:12:00+00:00,Oct-23,14410 Plover Place in Travis (TX),Stray,Injured,Dog,Intact Female,0 years,Golden Retriever/Great Pyrenees,Tan
+A890477,,0023-10-07 13:12:00+00:00,Oct-23,14410 Plover Place in Travis (TX),Stray,Injured,Dog,Intact Female,0 years,Golden Retriever/Great Pyrenees,Tan
+A890478,,0023-10-07 13:12:00+00:00,Oct-23,14410 Plover Place in Travis (TX),Stray,Injured,Dog,Intact Male,0 years,Golden Retriever/Great Pyrenees,Tan
+A890479,,0023-10-07 13:12:00+00:00,Oct-23,14410 Plover Place in Travis (TX),Stray,Injured,Dog,Intact Female,0 years,Golden Retriever/Great Pyrenees,Black
+A834123,Colt,0021-05-10 15:50:00+00:00,May-21,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,0 years,Great Pyrenees,White/Tan
+A918419,,0024-11-21 11:26:00+00:00,Nov-24,9910 Peterson Rd in Travis (TX),Stray,Normal,Dog,Intact Female,0 years,Great Pyrenees,Cream
+A918420,,0024-11-21 11:26:00+00:00,Nov-24,9910 Peterson Rd in Travis (TX),Stray,Normal,Dog,Intact Female,0 years,Great Pyrenees,Cream
+A918421,,0024-11-21 11:26:00+00:00,Nov-24,9910 Peterson Rd in Travis (TX),Stray,Normal,Dog,Intact Male,0 years,Great Pyrenees,Cream/Tan
+A918473,,0024-11-21 11:26:00+00:00,Nov-24,9910 Peterson Rd in Travis (TX),Stray,Normal,Dog,Intact Female,0 years,Great Pyrenees,Cream
+A910377,Milo,0024-08-12 13:01:00+00:00,Aug-24,Wickersham And Elmont in Austin (TX),Stray,Normal,Dog,Intact Male,0 years,Great Pyrenees Mix,White/Tan
+A750850,Po,0017-06-01 12:19:00+00:00,Jun-17,Austin (TX),Stray,Normal,Dog,Intact Male,0 years,Great Pyrenees/American Bulldog,White/Black
+A750851,*Bandit,0017-06-01 12:19:00+00:00,Jun-17,Austin (TX),Stray,Normal,Dog,Intact Male,0 years,Great Pyrenees/American Bulldog,Tricolor
+A750852,Maverick,0017-06-01 12:19:00+00:00,Jun-17,Austin (TX),Stray,Normal,Dog,Intact Male,0 years,Great Pyrenees/American Bulldog,White
+A750853,*Smokey,0017-06-01 12:19:00+00:00,Jun-17,Austin (TX),Stray,Normal,Dog,Intact Male,0 years,Great Pyrenees/American Bulldog,White/Black
+A750854,*Bruno,0017-06-01 12:19:00+00:00,Jun-17,Austin (TX),Stray,Normal,Dog,Intact Male,0 years,Great Pyrenees/American Bulldog,White/Black
+A750855,*Peanut,0017-06-01 12:19:00+00:00,Jun-17,Austin (TX),Stray,Normal,Dog,Intact Female,0 years,Great Pyrenees/American Bulldog,White/Black
+A750857,*Cinder,0017-06-01 12:19:00+00:00,Jun-17,Austin (TX),Stray,Normal,Dog,Intact Female,0 years,Great Pyrenees/American Bulldog,Black/White
+A750858,*Suki,0017-06-01 12:19:00+00:00,Jun-17,Austin (TX),Stray,Normal,Dog,Intact Female,0 years,Great Pyrenees/American Bulldog,White/Red Tick
+A844917,A844917,0021-10-22 12:59:00+00:00,Oct-21,Austin (TX),Owner Surrender,Normal,Other,Intact Female,0 years,Guinea Pig,Tricolor
+A844918,A844918,0021-10-22 12:59:00+00:00,Oct-21,Austin (TX),Owner Surrender,Normal,Other,Intact Male,0 years,Guinea Pig,Brown/White
+A880145,*Snap,0023-05-05 06:37:00+00:00,May-23,Austin (TX),Owner Surrender,Normal,Other,Intact Female,0 years,Guinea Pig,Tricolor
+A880146,*Piggly,0023-05-05 06:37:00+00:00,May-23,Austin (TX),Owner Surrender,Normal,Other,Intact Male,0 years,Guinea Pig,Tricolor
+A880147,*Wiggly,0023-05-05 06:37:00+00:00,May-23,Austin (TX),Owner Surrender,Normal,Other,Intact Male,0 years,Guinea Pig,Tricolor
+A744225,,0017-02-25 14:44:00+00:00,Feb-17,9920 Qual Blvd in Austin (TX),Stray,Normal,Other,Unknown,0 years,Havana Mix,Black
+A744226,,0017-02-25 14:44:00+00:00,Feb-17,9920 Qual Blvd in Austin (TX),Stray,Normal,Other,Unknown,0 years,Havana Mix,Black
+A744227,,0017-02-25 14:44:00+00:00,Feb-17,9920 Qual Blvd in Austin (TX),Stray,Normal,Other,Unknown,0 years,Havana Mix,Black
+A744228,,0017-02-25 14:44:00+00:00,Feb-17,9920 Qual Blvd in Austin (TX),Stray,Normal,Other,Unknown,0 years,Havana Mix,Black
+A731133,,0016-07-17 08:41:00+00:00,Jul-16,501 S Hwy 183 in Austin (TX),Stray,Pregnant,Dog,Intact Male,0 years,Jack Russell Terrier Mix,Sable
+A731134,,0016-07-17 08:41:00+00:00,Jul-16,501 S Hwy 183 in Austin (TX),Stray,Pregnant,Dog,Intact Male,0 years,Jack Russell Terrier Mix,Black/Tan
+A731135,,0016-07-17 08:42:00+00:00,Jul-16,501 S Hwy 183 in Austin (TX),Stray,Pregnant,Dog,Intact Female,0 years,Jack Russell Terrier Mix,Tricolor
+A731136,,0016-07-17 08:42:00+00:00,Jul-16,501 S Hwy 183 in Austin (TX),Stray,Pregnant,Dog,Intact Male,0 years,Jack Russell Terrier Mix,White/Brown
+A731137,,0016-07-17 08:44:00+00:00,Jul-16,501 S Hwy 183 in Austin (TX),Stray,Pregnant,Dog,Intact Female,0 years,Jack Russell Terrier Mix,White/Brown
+A731138,,0016-07-17 08:44:00+00:00,Jul-16,501 S Hwy 183 in Austin (TX),Stray,Pregnant,Dog,Intact Male,0 years,Jack Russell Terrier Mix,Tricolor
+A795250,,0019-05-18 13:53:00+00:00,May-19,Man O War in Travis (TX),Stray,Sick,Dog,Intact Female,0 years,Labrador Retriever,Red
+A795251,,0019-05-18 13:53:00+00:00,May-19,Man O War in Travis (TX),Stray,Sick,Dog,Intact Female,0 years,Labrador Retriever,Red
+A815263,,0020-03-12 13:17:00+00:00,Mar-20,Austin (TX),Public Assist,Nursing,Dog,Intact Female,0 years,Labrador Retriever,Blue/White
+A815264,,0020-03-12 13:17:00+00:00,Mar-20,Austin (TX),Public Assist,Nursing,Dog,Intact Male,0 years,Labrador Retriever,White/Brown
+A815265,,0020-03-12 13:17:00+00:00,Mar-20,Austin (TX),Public Assist,Nursing,Dog,Intact Male,0 years,Labrador Retriever,Black/White
+A815266,,0020-03-12 13:17:00+00:00,Mar-20,Austin (TX),Public Assist,Nursing,Dog,Intact Female,0 years,Labrador Retriever,Brown Brindle/White
+A815267,,0020-03-12 13:17:00+00:00,Mar-20,Austin (TX),Public Assist,Nursing,Dog,Intact Male,0 years,Labrador Retriever,Brown/White
+A815268,,0020-03-12 13:17:00+00:00,Mar-20,Austin (TX),Public Assist,Nursing,Dog,Intact Female,0 years,Labrador Retriever,Blue/White
+A815571,,0020-03-12 13:17:00+00:00,Mar-20,Austin (TX),Public Assist,Nursing,Dog,Unknown,0 years,Labrador Retriever,Blue/White
+A815572,,0020-03-12 13:17:00+00:00,Mar-20,Austin (TX),Public Assist,Nursing,Dog,Unknown,0 years,Labrador Retriever,Blue/White
+A841858,,0021-08-24 16:54:00+00:00,Aug-21,Travis (TX),Owner Surrender,Normal,Dog,Intact Female,0 years,Labrador Retriever,Black
+A841859,,0021-08-24 16:54:00+00:00,Aug-21,Travis (TX),Owner Surrender,Normal,Dog,Intact Male,0 years,Labrador Retriever,Brown/White
+A841860,,0021-08-24 16:54:00+00:00,Aug-21,Travis (TX),Owner Surrender,Normal,Dog,Intact Male,0 years,Labrador Retriever,Brown/White
+A861535,,0022-07-11 11:28:00+00:00,Jul-22,Austin (TX),Stray,Neonatal,Dog,Intact Female,0 years,Labrador Retriever,White
+A861536,,0022-07-11 11:28:00+00:00,Jul-22,Austin (TX),Stray,Neonatal,Dog,Intact Female,0 years,Labrador Retriever,White
+A861537,,0022-07-11 11:28:00+00:00,Jul-22,Austin (TX),Stray,Neonatal,Dog,Intact Male,0 years,Labrador Retriever,White
+A861540,,0022-07-11 11:28:00+00:00,Jul-22,Austin (TX),Stray,Neonatal,Dog,Intact Male,0 years,Labrador Retriever,Chocolate
+A861541,,0022-07-11 11:28:00+00:00,Jul-22,Austin (TX),Stray,Neonatal,Dog,Intact Female,0 years,Labrador Retriever,Chocolate
+A689234,,0014-10-01 08:44:00+00:00,Oct-14,Travis (TX),Stray,Nursing,Dog,Unknown,0 years,Labrador Retriever Mix,Brown/Black
+A689235,,0014-10-01 08:44:00+00:00,Oct-14,Travis (TX),Stray,Nursing,Dog,Unknown,0 years,Labrador Retriever Mix,Black/White
+A689236,,0014-10-01 08:44:00+00:00,Oct-14,Travis (TX),Stray,Nursing,Dog,Unknown,0 years,Labrador Retriever Mix,Black/White
+A689237,,0014-10-01 08:44:00+00:00,Oct-14,Travis (TX),Stray,Nursing,Dog,Unknown,0 years,Labrador Retriever Mix,Black/Brown
+A689238,,0014-10-01 08:44:00+00:00,Oct-14,Travis (TX),Stray,Nursing,Dog,Unknown,0 years,Labrador Retriever Mix,Sable/Brown
+A689239,,0014-10-01 08:44:00+00:00,Oct-14,Travis (TX),Stray,Nursing,Dog,Unknown,0 years,Labrador Retriever Mix,Sable
